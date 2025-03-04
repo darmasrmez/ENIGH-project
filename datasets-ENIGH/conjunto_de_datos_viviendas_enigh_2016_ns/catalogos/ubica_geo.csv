@@ -1,0 +1,963 @@
+ubica_geo,cve_ent,nom_ent,cve_mun,nom_mun,cve_loc,nom_loc 
+10010000,1,Aguascalientes,1,Aguascalientes,0,Sin nombre de localidad
+10020000,1,Aguascalientes,2,Asientos,0,Sin nombre de localidad
+10030000,1,Aguascalientes,3,Calvillo,0,Sin nombre de localidad
+10040000,1,Aguascalientes,4,Cosío,0,Sin nombre de localidad
+10050000,1,Aguascalientes,5,Jesús María,0,Sin nombre de localidad
+10060000,1,Aguascalientes,6,Pabellón de Arteaga,0,Sin nombre de localidad
+10070000,1,Aguascalientes,7,Rincón de Romos,0,Sin nombre de localidad
+10090000,1,Aguascalientes,9,Tepezalá,0,Sin nombre de localidad
+10100000,1,Aguascalientes,10,El Llano,0,Sin nombre de localidad
+10110000,1,Aguascalientes,11,San Francisco de los Romo,0,Sin nombre de localidad
+20010000,2,Baja California,1,Ensenada,0,Sin nombre de localidad
+20020000,2,Baja California,2,Mexicali,0,Sin nombre de localidad
+20030000,2,Baja California,3,Tecate,0,Sin nombre de localidad
+20040000,2,Baja California,4,Tijuana,0,Sin nombre de localidad
+20050000,2,Baja California,5,Playas de Rosarito,0,Sin nombre de localidad
+30010000,3,Baja California Sur,1,Comondú,0,Sin nombre de localidad
+30020000,3,Baja California Sur,2,Mulegé,0,Sin nombre de localidad
+30030000,3,Baja California Sur,3,La Paz,0,Sin nombre de localidad
+30080000,3,Baja California Sur,8,Los Cabos,0,Sin nombre de localidad
+30090000,3,Baja California Sur,9,Loreto,0,Sin nombre de localidad
+40010000,4,Campeche,1,Calkiní,0,Sin nombre de localidad
+40020000,4,Campeche,2,Campeche,0,Sin nombre de localidad
+40030000,4,Campeche,3,Carmen,0,Sin nombre de localidad
+40040000,4,Campeche,4,Champotón,0,Sin nombre de localidad
+40050000,4,Campeche,5,Hecelchakán,0,Sin nombre de localidad
+40060000,4,Campeche,6,Hopelchén,0,Sin nombre de localidad
+40070000,4,Campeche,7,Palizada,0,Sin nombre de localidad
+40080000,4,Campeche,8,Tenabo,0,Sin nombre de localidad
+40090000,4,Campeche,9,Escárcega,0,Sin nombre de localidad
+40100000,4,Campeche,10,Calakmul,0,Sin nombre de localidad
+40110000,4,Campeche,11,Candelaria,0,Sin nombre de localidad
+50020000,5,Coahuila de Zaragoza,2,Acuña,0,Sin nombre de localidad
+50030000,5,Coahuila de Zaragoza,3,Allende,0,Sin nombre de localidad
+50040000,5,Coahuila de Zaragoza,4,Arteaga,0,Sin nombre de localidad
+50060000,5,Coahuila de Zaragoza,6,Castaños,0,Sin nombre de localidad
+50070000,5,Coahuila de Zaragoza,7,Cuatro Ciénegas,0,Sin nombre de localidad
+50090000,5,Coahuila de Zaragoza,9,Francisco I. Madero,0,Sin nombre de localidad
+50100000,5,Coahuila de Zaragoza,10,Frontera,0,Sin nombre de localidad
+50140000,5,Coahuila de Zaragoza,14,Jiménez,0,Sin nombre de localidad
+50170000,5,Coahuila de Zaragoza,17,Matamoros,0,Sin nombre de localidad
+50180000,5,Coahuila de Zaragoza,18,Monclova,0,Sin nombre de localidad
+50190000,5,Coahuila de Zaragoza,19,Morelos,0,Sin nombre de localidad
+50200000,5,Coahuila de Zaragoza,20,Múzquiz,0,Sin nombre de localidad
+50210000,5,Coahuila de Zaragoza,21,Nadadores,0,Sin nombre de localidad
+50220000,5,Coahuila de Zaragoza,22,Nava,0,Sin nombre de localidad
+50230000,5,Coahuila de Zaragoza,23,Ocampo,0,Sin nombre de localidad
+50240000,5,Coahuila de Zaragoza,24,Parras,0,Sin nombre de localidad
+50250000,5,Coahuila de Zaragoza,25,Piedras Negras,0,Sin nombre de localidad
+50260000,5,Coahuila de Zaragoza,26,Progreso,0,Sin nombre de localidad
+50270000,5,Coahuila de Zaragoza,27,Ramos Arizpe,0,Sin nombre de localidad
+50280000,5,Coahuila de Zaragoza,28,Sabinas,0,Sin nombre de localidad
+50300000,5,Coahuila de Zaragoza,30,Saltillo,0,Sin nombre de localidad
+50310000,5,Coahuila de Zaragoza,31,San Buenaventura,0,Sin nombre de localidad
+50320000,5,Coahuila de Zaragoza,32,San Juan de Sabinas,0,Sin nombre de localidad
+50330000,5,Coahuila de Zaragoza,33,San Pedro,0,Sin nombre de localidad
+50350000,5,Coahuila de Zaragoza,35,Torreón,0,Sin nombre de localidad
+50360000,5,Coahuila de Zaragoza,36,Viesca,0,Sin nombre de localidad
+50370000,5,Coahuila de Zaragoza,37,Villa Unión,0,Sin nombre de localidad
+50380000,5,Coahuila de Zaragoza,38,Zaragoza,0,Sin nombre de localidad
+60010000,6,Colima,1,Armería,0,Sin nombre de localidad
+60020000,6,Colima,2,Colima,0,Sin nombre de localidad
+60030000,6,Colima,3,Comala,0,Sin nombre de localidad
+60040000,6,Colima,4,Coquimatlán,0,Sin nombre de localidad
+60050000,6,Colima,5,Cuauhtémoc,0,Sin nombre de localidad
+60060000,6,Colima,6,Ixtlahuacán,0,Sin nombre de localidad
+60070000,6,Colima,7,Manzanillo,0,Sin nombre de localidad
+60080000,6,Colima,8,Minatitlán,0,Sin nombre de localidad
+60090000,6,Colima,9,Tecomán,0,Sin nombre de localidad
+60100000,6,Colima,10,Villa de Álvarez,0,Sin nombre de localidad
+70010000,7,Chiapas,1,Acacoyagua,0,Sin nombre de localidad
+70020000,7,Chiapas,2,Acala,0,Sin nombre de localidad
+70030000,7,Chiapas,3,Acapetahua,0,Sin nombre de localidad
+70040000,7,Chiapas,4,Altamirano,0,Sin nombre de localidad
+70060000,7,Chiapas,6,Amatenango de la Frontera,0,Sin nombre de localidad
+70090000,7,Chiapas,9,Arriaga,0,Sin nombre de localidad
+70130000,7,Chiapas,13,Bochil,0,Sin nombre de localidad
+70170000,7,Chiapas,17,Cintalapa,0,Sin nombre de localidad
+70180000,7,Chiapas,18,Coapilla,0,Sin nombre de localidad
+70190000,7,Chiapas,19,Comitán de Domínguez,0,Sin nombre de localidad
+70210000,7,Chiapas,21,Copainalá,0,Sin nombre de localidad
+70230000,7,Chiapas,23,Chamula,0,Sin nombre de localidad
+70240000,7,Chiapas,24,Chanal,0,Sin nombre de localidad
+70270000,7,Chiapas,27,Chiapa de Corzo,0,Sin nombre de localidad
+70290000,7,Chiapas,29,Chicoasén,0,Sin nombre de localidad
+70340000,7,Chiapas,34,Frontera Comalapa,0,Sin nombre de localidad
+70370000,7,Chiapas,37,Huehuetán,0,Sin nombre de localidad
+70410000,7,Chiapas,41,La Independencia,0,Sin nombre de localidad
+70460000,7,Chiapas,46,Jiquipilas,0,Sin nombre de localidad
+70470000,7,Chiapas,47,Jitotol,0,Sin nombre de localidad
+70490000,7,Chiapas,49,Larráinzar,0,Sin nombre de localidad
+70510000,7,Chiapas,51,Mapastepec,0,Sin nombre de localidad
+70530000,7,Chiapas,53,Mazapa de Madero,0,Sin nombre de localidad
+70610000,7,Chiapas,61,Ocozocoautla de Espinosa,0,Sin nombre de localidad
+70640000,7,Chiapas,64,Oxchuc,0,Sin nombre de localidad
+70650000,7,Chiapas,65,Palenque,0,Sin nombre de localidad
+70660000,7,Chiapas,66,Pantelhó,0,Sin nombre de localidad
+70690000,7,Chiapas,69,Pijijiapan,0,Sin nombre de localidad
+70710000,7,Chiapas,71,Villa Comaltitlán,0,Sin nombre de localidad
+70750000,7,Chiapas,75,Las Rosas,0,Sin nombre de localidad
+70770000,7,Chiapas,77,Salto de Agua,0,Sin nombre de localidad
+70780000,7,Chiapas,78,San Cristóbal de las Casas,0,Sin nombre de localidad
+70790000,7,Chiapas,79,San Fernando,0,Sin nombre de localidad
+70800000,7,Chiapas,80,Siltepec,0,Sin nombre de localidad
+70830000,7,Chiapas,83,Socoltenango,0,Sin nombre de localidad
+70890000,7,Chiapas,89,Tapachula,0,Sin nombre de localidad
+70930000,7,Chiapas,93,Tenejapa,0,Sin nombre de localidad
+70960000,7,Chiapas,96,Tila,0,Sin nombre de localidad
+70970000,7,Chiapas,97,Tonalá,0,Sin nombre de localidad
+70990000,7,Chiapas,99,La Trinitaria,0,Sin nombre de localidad
+71010000,7,Chiapas,101,Tuxtla Gutiérrez,0,Sin nombre de localidad
+71020000,7,Chiapas,102,Tuxtla Chico,0,Sin nombre de localidad
+71030000,7,Chiapas,103,Tuzantán,0,Sin nombre de localidad
+71060000,7,Chiapas,106,Venustiano Carranza,0,Sin nombre de localidad
+71080000,7,Chiapas,108,Villaflores,0,Sin nombre de localidad
+71110000,7,Chiapas,111,Zinacantán,0,Sin nombre de localidad
+71120000,7,Chiapas,112,San Juan Cancuc,0,Sin nombre de localidad
+71130000,7,Chiapas,113,Aldama,0,Sin nombre de localidad
+80060000,8,Chihuahua,6,Bachíniva,0,Sin nombre de localidad
+80070000,8,Chihuahua,7,Balleza,0,Sin nombre de localidad
+80090000,8,Chihuahua,9,Bocoyna,0,Sin nombre de localidad
+80100000,8,Chihuahua,10,Buenaventura,0,Sin nombre de localidad
+80110000,8,Chihuahua,11,Camargo,0,Sin nombre de localidad
+80120000,8,Chihuahua,12,Carichí,0,Sin nombre de localidad
+80160000,8,Chihuahua,16,La Cruz,0,Sin nombre de localidad
+80170000,8,Chihuahua,17,Cuauhtémoc,0,Sin nombre de localidad
+80180000,8,Chihuahua,18,Cusihuiriachi,0,Sin nombre de localidad
+80190000,8,Chihuahua,19,Chihuahua,0,Sin nombre de localidad
+80200000,8,Chihuahua,20,Chínipas,0,Sin nombre de localidad
+80210000,8,Chihuahua,21,Delicias,0,Sin nombre de localidad
+80230000,8,Chihuahua,23,Galeana,0,Sin nombre de localidad
+80270000,8,Chihuahua,27,Guachochi,0,Sin nombre de localidad
+80280000,8,Chihuahua,28,Guadalupe,0,Sin nombre de localidad
+80290000,8,Chihuahua,29,Guadalupe y Calvo,0,Sin nombre de localidad
+80300000,8,Chihuahua,30,Guazapares,0,Sin nombre de localidad
+80310000,8,Chihuahua,31,Guerrero,0,Sin nombre de localidad
+80320000,8,Chihuahua,32,Hidalgo del Parral,0,Sin nombre de localidad
+80340000,8,Chihuahua,34,Ignacio Zaragoza,0,Sin nombre de localidad
+80350000,8,Chihuahua,35,Janos,0,Sin nombre de localidad
+80360000,8,Chihuahua,36,Jiménez,0,Sin nombre de localidad
+80370000,8,Chihuahua,37,Juárez,0,Sin nombre de localidad
+80380000,8,Chihuahua,38,Julimes,0,Sin nombre de localidad
+80400000,8,Chihuahua,40,Madera,0,Sin nombre de localidad
+80430000,8,Chihuahua,43,Matachí,0,Sin nombre de localidad
+80450000,8,Chihuahua,45,Meoqui,0,Sin nombre de localidad
+80470000,8,Chihuahua,47,Moris,0,Sin nombre de localidad
+80480000,8,Chihuahua,48,Namiquipa,0,Sin nombre de localidad
+80500000,8,Chihuahua,50,Nuevo Casas Grandes,0,Sin nombre de localidad
+80510000,8,Chihuahua,51,Ocampo,0,Sin nombre de localidad
+80520000,8,Chihuahua,52,Ojinaga,0,Sin nombre de localidad
+80530000,8,Chihuahua,53,Praxedis G. Guerrero,0,Sin nombre de localidad
+80550000,8,Chihuahua,55,Rosales,0,Sin nombre de localidad
+80560000,8,Chihuahua,56,Rosario,0,Sin nombre de localidad
+80600000,8,Chihuahua,60,Santa Bárbara,0,Sin nombre de localidad
+80620000,8,Chihuahua,62,Saucillo,0,Sin nombre de localidad
+80640000,8,Chihuahua,64,El Tule,0,Sin nombre de localidad
+90020000,9,Ciudad de México,2,Azcapotzalco,0,Sin nombre de localidad
+90030000,9,Ciudad de México,3,Coyoacán,0,Sin nombre de localidad
+90040000,9,Ciudad de México,4,Cuajimalpa de Morelos,0,Sin nombre de localidad
+90050000,9,Ciudad de México,5,Gustavo A. Madero,0,Sin nombre de localidad
+90060000,9,Ciudad de México,6,Iztacalco,0,Sin nombre de localidad
+90070000,9,Ciudad de México,7,Iztapalapa,0,Sin nombre de localidad
+90080000,9,Ciudad de México,8,La Magdalena Contreras,0,Sin nombre de localidad
+90090000,9,Ciudad de México,9,Milpa Alta,0,Sin nombre de localidad
+90100000,9,Ciudad de México,10,Álvaro Obregón,0,Sin nombre de localidad
+90110000,9,Ciudad de México,11,Tláhuac,0,Sin nombre de localidad
+90120000,9,Ciudad de México,12,Tlalpan,0,Sin nombre de localidad
+90130000,9,Ciudad de México,13,Xochimilco,0,Sin nombre de localidad
+90140000,9,Ciudad de México,14,Benito Juárez,0,Sin nombre de localidad
+90150000,9,Ciudad de México,15,Cuauhtémoc,0,Sin nombre de localidad
+90160000,9,Ciudad de México,16,Miguel Hidalgo,0,Sin nombre de localidad
+90170000,9,Ciudad de México,17,Venustiano Carranza,0,Sin nombre de localidad
+100010000,10,Durango,1,Canatlán,0,Sin nombre de localidad
+100040000,10,Durango,4,Cuencamé,0,Sin nombre de localidad
+100050000,10,Durango,5,Durango,0,Sin nombre de localidad
+100060000,10,Durango,6,General Simón Bolívar,0,Sin nombre de localidad
+100070000,10,Durango,7,Gómez Palacio,0,Sin nombre de localidad
+100080000,10,Durango,8,Guadalupe Victoria,0,Sin nombre de localidad
+100090000,10,Durango,9,Guanaceví,0,Sin nombre de localidad
+100100000,10,Durango,10,Hidalgo,0,Sin nombre de localidad
+100120000,10,Durango,12,Lerdo,0,Sin nombre de localidad
+100130000,10,Durango,13,Mapimí,0,Sin nombre de localidad
+100150000,10,Durango,15,Nazas,0,Sin nombre de localidad
+100160000,10,Durango,16,Nombre de Dios,0,Sin nombre de localidad
+100180000,10,Durango,18,El Oro,0,Sin nombre de localidad
+100200000,10,Durango,20,Pánuco de Coronado,0,Sin nombre de localidad
+100210000,10,Durango,21,Peñón Blanco,0,Sin nombre de localidad
+100230000,10,Durango,23,Pueblo Nuevo,0,Sin nombre de localidad
+100270000,10,Durango,27,San Juan de Guadalupe,0,Sin nombre de localidad
+100280000,10,Durango,28,San Juan del Río,0,Sin nombre de localidad
+100300000,10,Durango,30,San Pedro del Gallo,0,Sin nombre de localidad
+100310000,10,Durango,31,Santa Clara,0,Sin nombre de localidad
+100320000,10,Durango,32,Santiago Papasquiaro,0,Sin nombre de localidad
+100390000,10,Durango,39,Nuevo Ideal,0,Sin nombre de localidad
+110010000,11,Guanajuato,1,Abasolo,0,Sin nombre de localidad
+110020000,11,Guanajuato,2,Acámbaro,0,Sin nombre de localidad
+110030000,11,Guanajuato,3,San Miguel de Allende,0,Sin nombre de localidad
+110040000,11,Guanajuato,4,Apaseo el Alto,0,Sin nombre de localidad
+110050000,11,Guanajuato,5,Apaseo el Grande,0,Sin nombre de localidad
+110070000,11,Guanajuato,7,Celaya,0,Sin nombre de localidad
+110080000,11,Guanajuato,8,Manuel Doblado,0,Sin nombre de localidad
+110090000,11,Guanajuato,9,Comonfort,0,Sin nombre de localidad
+110140000,11,Guanajuato,14,Dolores Hidalgo Cuna de la Independencia Nacional,0,Sin nombre de localidad
+110150000,11,Guanajuato,15,Guanajuato,0,Sin nombre de localidad
+110170000,11,Guanajuato,17,Irapuato,0,Sin nombre de localidad
+110180000,11,Guanajuato,18,Jaral del Progreso,0,Sin nombre de localidad
+110190000,11,Guanajuato,19,Jerécuaro,0,Sin nombre de localidad
+110200000,11,Guanajuato,20,León,0,Sin nombre de localidad
+110230000,11,Guanajuato,23,Pénjamo,0,Sin nombre de localidad
+110250000,11,Guanajuato,25,Purísima del Rincón,0,Sin nombre de localidad
+110270000,11,Guanajuato,27,Salamanca,0,Sin nombre de localidad
+110280000,11,Guanajuato,28,Salvatierra,0,Sin nombre de localidad
+110300000,11,Guanajuato,30,San Felipe,0,Sin nombre de localidad
+110310000,11,Guanajuato,31,San Francisco del Rincón,0,Sin nombre de localidad
+110320000,11,Guanajuato,32,San José Iturbide,0,Sin nombre de localidad
+110330000,11,Guanajuato,33,San Luis de la Paz,0,Sin nombre de localidad
+110350000,11,Guanajuato,35,Santa Cruz de Juventino Rosas,0,Sin nombre de localidad
+110370000,11,Guanajuato,37,Silao de la Victoria,0,Sin nombre de localidad
+110410000,11,Guanajuato,41,Uriangato,0,Sin nombre de localidad
+110420000,11,Guanajuato,42,Valle de Santiago,0,Sin nombre de localidad
+110430000,11,Guanajuato,43,Victoria,0,Sin nombre de localidad
+110440000,11,Guanajuato,44,Villagrán,0,Sin nombre de localidad
+110460000,11,Guanajuato,46,Yuriria,0,Sin nombre de localidad
+120010000,12,Guerrero,1,Acapulco de Juárez,0,Sin nombre de localidad
+120020000,12,Guerrero,2,Ahuacuotzingo,0,Sin nombre de localidad
+120070000,12,Guerrero,7,Arcelia,0,Sin nombre de localidad
+120110000,12,Guerrero,11,Atoyac de Álvarez,0,Sin nombre de localidad
+120120000,12,Guerrero,12,Ayutla de los Libres,0,Sin nombre de localidad
+120140000,12,Guerrero,14,Benito Juárez,0,Sin nombre de localidad
+120150000,12,Guerrero,15,Buenavista de Cuéllar,0,Sin nombre de localidad
+120160000,12,Guerrero,16,Coahuayutla de José María Izazaga,0,Sin nombre de localidad
+120170000,12,Guerrero,17,Cocula,0,Sin nombre de localidad
+120180000,12,Guerrero,18,Copala,0,Sin nombre de localidad
+120200000,12,Guerrero,20,Copanatoyac,0,Sin nombre de localidad
+120210000,12,Guerrero,21,Coyuca de Benítez,0,Sin nombre de localidad
+120230000,12,Guerrero,23,Cuajinicuilapa,0,Sin nombre de localidad
+120250000,12,Guerrero,25,Cuautepec,0,Sin nombre de localidad
+120270000,12,Guerrero,27,Cutzamala de Pinzón,0,Sin nombre de localidad
+120280000,12,Guerrero,28,Chilapa de Álvarez,0,Sin nombre de localidad
+120290000,12,Guerrero,29,Chilpancingo de los Bravo,0,Sin nombre de localidad
+120340000,12,Guerrero,34,Huitzuco de los Figueroa,0,Sin nombre de localidad
+120350000,12,Guerrero,35,Iguala de la Independencia,0,Sin nombre de localidad
+120360000,12,Guerrero,36,Igualapa,0,Sin nombre de localidad
+120380000,12,Guerrero,38,Zihuatanejo de Azueta,0,Sin nombre de localidad
+120450000,12,Guerrero,45,Olinalá,0,Sin nombre de localidad
+120460000,12,Guerrero,46,Ometepec,0,Sin nombre de localidad
+120510000,12,Guerrero,51,Quechultenango,0,Sin nombre de localidad
+120530000,12,Guerrero,53,San Marcos,0,Sin nombre de localidad
+120550000,12,Guerrero,55,Taxco de Alarcón,0,Sin nombre de localidad
+120570000,12,Guerrero,57,Técpan de Galeana,0,Sin nombre de localidad
+120610000,12,Guerrero,61,Tixtla de Guerrero,0,Sin nombre de localidad
+120620000,12,Guerrero,62,Tlacoachistlahuaca,0,Sin nombre de localidad
+120660000,12,Guerrero,66,Tlapa de Comonfort,0,Sin nombre de localidad
+120680000,12,Guerrero,68,La Unión de Isidoro Montes de Oca,0,Sin nombre de localidad
+120690000,12,Guerrero,69,Xalpatláhuac,0,Sin nombre de localidad
+120720000,12,Guerrero,72,Zapotitlán Tablas,0,Sin nombre de localidad
+120740000,12,Guerrero,74,Zitlala,0,Sin nombre de localidad
+120770000,12,Guerrero,77,Marquelia,0,Sin nombre de localidad
+130020000,13,Hidalgo,2,Acaxochitlán,0,Sin nombre de localidad
+130070000,13,Hidalgo,7,Almoloya,0,Sin nombre de localidad
+130090000,13,Hidalgo,9,El Arenal,0,Sin nombre de localidad
+130100000,13,Hidalgo,10,Atitalaquia,0,Sin nombre de localidad
+130160000,13,Hidalgo,16,Cuautepec de Hinojosa,0,Sin nombre de localidad
+130190000,13,Hidalgo,19,Chilcuautla,0,Sin nombre de localidad
+130210000,13,Hidalgo,21,Emiliano Zapata,0,Sin nombre de localidad
+130250000,13,Hidalgo,25,Huautla,0,Sin nombre de localidad
+130270000,13,Hidalgo,27,Huehuetla,0,Sin nombre de localidad
+130280000,13,Hidalgo,28,Huejutla de Reyes,0,Sin nombre de localidad
+130290000,13,Hidalgo,29,Huichapan,0,Sin nombre de localidad
+130300000,13,Hidalgo,30,Ixmiquilpan,0,Sin nombre de localidad
+130320000,13,Hidalgo,32,Jaltocán,0,Sin nombre de localidad
+130370000,13,Hidalgo,37,Metztitlán,0,Sin nombre de localidad
+130400000,13,Hidalgo,40,La Misión,0,Sin nombre de localidad
+130410000,13,Hidalgo,41,Mixquiahuala de Juárez,0,Sin nombre de localidad
+130460000,13,Hidalgo,46,San Felipe Orizatlán,0,Sin nombre de localidad
+130480000,13,Hidalgo,48,Pachuca de Soto,0,Sin nombre de localidad
+130490000,13,Hidalgo,49,Pisaflores,0,Sin nombre de localidad
+130510000,13,Hidalgo,51,Mineral de la Reforma,0,Sin nombre de localidad
+130520000,13,Hidalgo,52,San Agustín Tlaxiaca,0,Sin nombre de localidad
+130530000,13,Hidalgo,53,San Bartolo Tutotepec,0,Sin nombre de localidad
+130550000,13,Hidalgo,55,Santiago de Anaya,0,Sin nombre de localidad
+130560000,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,0,Sin nombre de localidad
+130590000,13,Hidalgo,59,Tecozautla,0,Sin nombre de localidad
+130600000,13,Hidalgo,60,Tenango de Doria,0,Sin nombre de localidad
+130610000,13,Hidalgo,61,Tepeapulco,0,Sin nombre de localidad
+130620000,13,Hidalgo,62,Tepehuacán de Guerrero,0,Sin nombre de localidad
+130630000,13,Hidalgo,63,Tepeji del Río de Ocampo,0,Sin nombre de localidad
+130640000,13,Hidalgo,64,Tepetitlán,0,Sin nombre de localidad
+130670000,13,Hidalgo,67,Tezontepec de Aldama,0,Sin nombre de localidad
+130690000,13,Hidalgo,69,Tizayuca,0,Sin nombre de localidad
+130700000,13,Hidalgo,70,Tlahuelilpan,0,Sin nombre de localidad
+130730000,13,Hidalgo,73,Tlanchinol,0,Sin nombre de localidad
+130740000,13,Hidalgo,74,Tlaxcoapan,0,Sin nombre de localidad
+130750000,13,Hidalgo,75,Tolcayuca,0,Sin nombre de localidad
+130760000,13,Hidalgo,76,Tula de Allende,0,Sin nombre de localidad
+130770000,13,Hidalgo,77,Tulancingo de Bravo,0,Sin nombre de localidad
+130810000,13,Hidalgo,81,Zacualtipán de Ángeles,0,Sin nombre de localidad
+130820000,13,Hidalgo,82,Zapotlán de Juárez,0,Sin nombre de localidad
+130840000,13,Hidalgo,84,Zimapán,0,Sin nombre de localidad
+140020000,14,Jalisco,2,Acatlán de Juárez,0,Sin nombre de localidad
+140060000,14,Jalisco,6,Ameca,0,Sin nombre de localidad
+140090000,14,Jalisco,9,El Arenal,0,Sin nombre de localidad
+140130000,14,Jalisco,13,Atotonilco el Alto,0,Sin nombre de localidad
+140150000,14,Jalisco,15,Autlán de Navarro,0,Sin nombre de localidad
+140160000,14,Jalisco,16,Ayotlán,0,Sin nombre de localidad
+140180000,14,Jalisco,18,La Barca,0,Sin nombre de localidad
+140210000,14,Jalisco,21,Casimiro Castillo,0,Sin nombre de localidad
+140220000,14,Jalisco,22,Cihuatlán,0,Sin nombre de localidad
+140230000,14,Jalisco,23,Zapotlán el Grande,0,Sin nombre de localidad
+140350000,14,Jalisco,35,Encarnación de Díaz,0,Sin nombre de localidad
+140370000,14,Jalisco,37,El Grullo,0,Sin nombre de localidad
+140390000,14,Jalisco,39,Guadalajara,0,Sin nombre de localidad
+140430000,14,Jalisco,43,La Huerta,0,Sin nombre de localidad
+140450000,14,Jalisco,45,Ixtlahuacán del Río,0,Sin nombre de localidad
+140490000,14,Jalisco,49,Jilotlán de los Dolores,0,Sin nombre de localidad
+140500000,14,Jalisco,50,Jocotepec,0,Sin nombre de localidad
+140520000,14,Jalisco,52,Juchitlán,0,Sin nombre de localidad
+140550000,14,Jalisco,55,Magdalena,0,Sin nombre de localidad
+140590000,14,Jalisco,59,Mazamitla,0,Sin nombre de localidad
+140630000,14,Jalisco,63,Ocotlán,0,Sin nombre de localidad
+140670000,14,Jalisco,67,Puerto Vallarta,0,Sin nombre de localidad
+140690000,14,Jalisco,69,Quitupan,0,Sin nombre de localidad
+140700000,14,Jalisco,70,El Salto,0,Sin nombre de localidad
+140730000,14,Jalisco,73,San Juan de los Lagos,0,Sin nombre de localidad
+140830000,14,Jalisco,83,Tala,0,Sin nombre de localidad
+140890000,14,Jalisco,89,Techaluta de Montenegro,0,Sin nombre de localidad
+140900000,14,Jalisco,90,Tenamaxtlán,0,Sin nombre de localidad
+140920000,14,Jalisco,92,Teocuitatlán de Corona,0,Sin nombre de localidad
+140930000,14,Jalisco,93,Tepatitlán de Morelos,0,Sin nombre de localidad
+140970000,14,Jalisco,97,Tlajomulco de Zúñiga,0,Sin nombre de localidad
+140980000,14,Jalisco,98,San Pedro Tlaquepaque,0,Sin nombre de localidad
+141000000,14,Jalisco,100,Tomatlán,0,Sin nombre de localidad
+141010000,14,Jalisco,101,Tonalá,0,Sin nombre de localidad
+141050000,14,Jalisco,105,Tototlán,0,Sin nombre de localidad
+141070000,14,Jalisco,107,Tuxcueca,0,Sin nombre de localidad
+141140000,14,Jalisco,114,Villa Corona,0,Sin nombre de localidad
+141160000,14,Jalisco,116,Villa Hidalgo,0,Sin nombre de localidad
+141200000,14,Jalisco,120,Zapopan,0,Sin nombre de localidad
+141210000,14,Jalisco,121,Zapotiltic,0,Sin nombre de localidad
+141240000,14,Jalisco,124,Zapotlanejo,0,Sin nombre de localidad
+141250000,14,Jalisco,125,San Ignacio Cerro Gordo,0,Sin nombre de localidad
+150020000,15,México,2,Acolman,0,Sin nombre de localidad
+150030000,15,México,3,Aculco,0,Sin nombre de localidad
+150050000,15,México,5,Almoloya de Juárez,0,Sin nombre de localidad
+150070000,15,México,7,Amanalco,0,Sin nombre de localidad
+150090000,15,México,9,Amecameca,0,Sin nombre de localidad
+150110000,15,México,11,Atenco,0,Sin nombre de localidad
+150130000,15,México,13,Atizapán de Zaragoza,0,Sin nombre de localidad
+150170000,15,México,17,Ayapango,0,Sin nombre de localidad
+150180000,15,México,18,Calimaya,0,Sin nombre de localidad
+150200000,15,México,20,Coacalco de Berriozábal,0,Sin nombre de localidad
+150230000,15,México,23,Coyotepec,0,Sin nombre de localidad
+150240000,15,México,24,Cuautitlán,0,Sin nombre de localidad
+150250000,15,México,25,Chalco,0,Sin nombre de localidad
+150260000,15,México,26,Chapa de Mota,0,Sin nombre de localidad
+150280000,15,México,28,Chiautla,0,Sin nombre de localidad
+150290000,15,México,29,Chicoloapan,0,Sin nombre de localidad
+150310000,15,México,31,Chimalhuacán,0,Sin nombre de localidad
+150320000,15,México,32,Donato Guerra,0,Sin nombre de localidad
+150330000,15,México,33,Ecatepec de Morelos,0,Sin nombre de localidad
+150350000,15,México,35,Huehuetoca,0,Sin nombre de localidad
+150360000,15,México,36,Hueypoxtla,0,Sin nombre de localidad
+150370000,15,México,37,Huixquilucan,0,Sin nombre de localidad
+150390000,15,México,39,Ixtapaluca,0,Sin nombre de localidad
+150440000,15,México,44,Jaltenco,0,Sin nombre de localidad
+150450000,15,México,45,Jilotepec,0,Sin nombre de localidad
+150460000,15,México,46,Jilotzingo,0,Sin nombre de localidad
+150470000,15,México,47,Jiquipilco,0,Sin nombre de localidad
+150510000,15,México,51,Lerma,0,Sin nombre de localidad
+150520000,15,México,52,Malinalco,0,Sin nombre de localidad
+150540000,15,México,54,Metepec,0,Sin nombre de localidad
+150570000,15,México,57,Naucalpan de Juárez,0,Sin nombre de localidad
+150580000,15,México,58,Nezahualcóyotl,0,Sin nombre de localidad
+150590000,15,México,59,Nextlalpan,0,Sin nombre de localidad
+150600000,15,México,60,Nicolás Romero,0,Sin nombre de localidad
+150610000,15,México,61,Nopaltepec,0,Sin nombre de localidad
+150620000,15,México,62,Ocoyoacac,0,Sin nombre de localidad
+150640000,15,México,64,El Oro,0,Sin nombre de localidad
+150700000,15,México,70,La Paz,0,Sin nombre de localidad
+150750000,15,México,75,San Martín de las Pirámides,0,Sin nombre de localidad
+150760000,15,México,76,San Mateo Atenco,0,Sin nombre de localidad
+150790000,15,México,79,Soyaniquilpan de Juárez,0,Sin nombre de localidad
+150810000,15,México,81,Tecámac,0,Sin nombre de localidad
+150850000,15,México,85,Temascalcingo,0,Sin nombre de localidad
+150870000,15,México,87,Temoaya,0,Sin nombre de localidad
+150880000,15,México,88,Tenancingo,0,Sin nombre de localidad
+150900000,15,México,90,Tenango del Valle,0,Sin nombre de localidad
+150910000,15,México,91,Teoloyucan,0,Sin nombre de localidad
+150940000,15,México,94,Tepetlixpa,0,Sin nombre de localidad
+150950000,15,México,95,Tepotzotlán,0,Sin nombre de localidad
+150970000,15,México,97,Texcaltitlán,0,Sin nombre de localidad
+150990000,15,México,99,Texcoco,0,Sin nombre de localidad
+151000000,15,México,100,Tezoyuca,0,Sin nombre de localidad
+151010000,15,México,101,Tianguistenco,0,Sin nombre de localidad
+151030000,15,México,103,Tlalmanalco,0,Sin nombre de localidad
+151040000,15,México,104,Tlalnepantla de Baz,0,Sin nombre de localidad
+151050000,15,México,105,Tlatlaya,0,Sin nombre de localidad
+151060000,15,México,106,Toluca,0,Sin nombre de localidad
+151080000,15,México,108,Tultepec,0,Sin nombre de localidad
+151090000,15,México,109,Tultitlán,0,Sin nombre de localidad
+151100000,15,México,110,Valle de Bravo,0,Sin nombre de localidad
+151110000,15,México,111,Villa de Allende,0,Sin nombre de localidad
+151120000,15,México,112,Villa del Carbón,0,Sin nombre de localidad
+151130000,15,México,113,Villa Guerrero,0,Sin nombre de localidad
+151140000,15,México,114,Villa Victoria,0,Sin nombre de localidad
+151150000,15,México,115,Xonacatlán,0,Sin nombre de localidad
+151180000,15,México,118,Zinacantepec,0,Sin nombre de localidad
+151200000,15,México,120,Zumpango,0,Sin nombre de localidad
+151210000,15,México,121,Cuautitlán Izcalli,0,Sin nombre de localidad
+151220000,15,México,122,Valle de Chalco Solidaridad,0,Sin nombre de localidad
+151230000,15,México,123,Luvianos,0,Sin nombre de localidad
+151240000,15,México,124,San José del Rincón,0,Sin nombre de localidad
+160090000,16,Michoacán de Ocampo,9,Ario,0,Sin nombre de localidad
+160140000,16,Michoacán de Ocampo,14,Coahuayana,0,Sin nombre de localidad
+160150000,16,Michoacán de Ocampo,15,Coalcomán de Vázquez Pallares,0,Sin nombre de localidad
+160170000,16,Michoacán de Ocampo,17,Contepec,0,Sin nombre de localidad
+160190000,16,Michoacán de Ocampo,19,Cotija,0,Sin nombre de localidad
+160200000,16,Michoacán de Ocampo,20,Cuitzeo,0,Sin nombre de localidad
+160220000,16,Michoacán de Ocampo,22,Charo,0,Sin nombre de localidad
+160270000,16,Michoacán de Ocampo,27,Chucándiro,0,Sin nombre de localidad
+160330000,16,Michoacán de Ocampo,33,Gabriel Zamora,0,Sin nombre de localidad
+160340000,16,Michoacán de Ocampo,34,Hidalgo,0,Sin nombre de localidad
+160360000,16,Michoacán de Ocampo,36,Huandacareo,0,Sin nombre de localidad
+160380000,16,Michoacán de Ocampo,38,Huetamo,0,Sin nombre de localidad
+160430000,16,Michoacán de Ocampo,43,Jacona,0,Sin nombre de localidad
+160470000,16,Michoacán de Ocampo,47,Jungapeo,0,Sin nombre de localidad
+160500000,16,Michoacán de Ocampo,50,Maravatío,0,Sin nombre de localidad
+160520000,16,Michoacán de Ocampo,52,Lázaro Cárdenas,0,Sin nombre de localidad
+160530000,16,Michoacán de Ocampo,53,Morelia,0,Sin nombre de localidad
+160570000,16,Michoacán de Ocampo,57,Nocupétaro,0,Sin nombre de localidad
+160620000,16,Michoacán de Ocampo,62,Pajacuarán,0,Sin nombre de localidad
+160660000,16,Michoacán de Ocampo,66,Pátzcuaro,0,Sin nombre de localidad
+160670000,16,Michoacán de Ocampo,67,Penjamillo,0,Sin nombre de localidad
+160690000,16,Michoacán de Ocampo,69,La Piedad,0,Sin nombre de localidad
+160710000,16,Michoacán de Ocampo,71,Puruándiro,0,Sin nombre de localidad
+160750000,16,Michoacán de Ocampo,75,Los Reyes,0,Sin nombre de localidad
+160760000,16,Michoacán de Ocampo,76,Sahuayo,0,Sin nombre de localidad
+160770000,16,Michoacán de Ocampo,77,San Lucas,0,Sin nombre de localidad
+160790000,16,Michoacán de Ocampo,79,Salvador Escalante,0,Sin nombre de localidad
+160810000,16,Michoacán de Ocampo,81,Susupuato,0,Sin nombre de localidad
+160820000,16,Michoacán de Ocampo,82,Tacámbaro,0,Sin nombre de localidad
+160860000,16,Michoacán de Ocampo,86,Tanhuato,0,Sin nombre de localidad
+160870000,16,Michoacán de Ocampo,87,Taretan,0,Sin nombre de localidad
+160890000,16,Michoacán de Ocampo,89,Tepalcatepec,0,Sin nombre de localidad
+160930000,16,Michoacán de Ocampo,93,Tlalpujahua,0,Sin nombre de localidad
+160980000,16,Michoacán de Ocampo,98,Tuxpan,0,Sin nombre de localidad
+161020000,16,Michoacán de Ocampo,102,Uruapan,0,Sin nombre de localidad
+161040000,16,Michoacán de Ocampo,104,Villamar,0,Sin nombre de localidad
+161050000,16,Michoacán de Ocampo,105,Vista Hermosa,0,Sin nombre de localidad
+161070000,16,Michoacán de Ocampo,107,Zacapu,0,Sin nombre de localidad
+161080000,16,Michoacán de Ocampo,108,Zamora,0,Sin nombre de localidad
+161100000,16,Michoacán de Ocampo,110,Zinapécuaro,0,Sin nombre de localidad
+161110000,16,Michoacán de Ocampo,111,Ziracuaretiro,0,Sin nombre de localidad
+161120000,16,Michoacán de Ocampo,112,Zitácuaro,0,Sin nombre de localidad
+170020000,17,Morelos,2,Atlatlahucan,0,Sin nombre de localidad
+170040000,17,Morelos,4,Ayala,0,Sin nombre de localidad
+170050000,17,Morelos,5,Coatlán del Río,0,Sin nombre de localidad
+170060000,17,Morelos,6,Cuautla,0,Sin nombre de localidad
+170070000,17,Morelos,7,Cuernavaca,0,Sin nombre de localidad
+170080000,17,Morelos,8,Emiliano Zapata,0,Sin nombre de localidad
+170090000,17,Morelos,9,Huitzilac,0,Sin nombre de localidad
+170110000,17,Morelos,11,Jiutepec,0,Sin nombre de localidad
+170120000,17,Morelos,12,Jojutla,0,Sin nombre de localidad
+170140000,17,Morelos,14,Mazatepec,0,Sin nombre de localidad
+170150000,17,Morelos,15,Miacatlán,0,Sin nombre de localidad
+170170000,17,Morelos,17,Puente de Ixtla,0,Sin nombre de localidad
+170180000,17,Morelos,18,Temixco,0,Sin nombre de localidad
+170190000,17,Morelos,19,Tepalcingo,0,Sin nombre de localidad
+170200000,17,Morelos,20,Tepoztlán,0,Sin nombre de localidad
+170240000,17,Morelos,24,Tlaltizapán de Zapata,0,Sin nombre de localidad
+170250000,17,Morelos,25,Tlaquiltenango,0,Sin nombre de localidad
+170260000,17,Morelos,26,Tlayacapan,0,Sin nombre de localidad
+170270000,17,Morelos,27,Totolapan,0,Sin nombre de localidad
+170280000,17,Morelos,28,Xochitepec,0,Sin nombre de localidad
+170290000,17,Morelos,29,Yautepec,0,Sin nombre de localidad
+170300000,17,Morelos,30,Yecapixtla,0,Sin nombre de localidad
+170310000,17,Morelos,31,Zacatepec,0,Sin nombre de localidad
+180010000,18,Nayarit,1,Acaponeta,0,Sin nombre de localidad
+180040000,18,Nayarit,4,Compostela,0,Sin nombre de localidad
+180050000,18,Nayarit,5,Huajicori,0,Sin nombre de localidad
+180060000,18,Nayarit,6,Ixtlán del Río,0,Sin nombre de localidad
+180070000,18,Nayarit,7,Jala,0,Sin nombre de localidad
+180080000,18,Nayarit,8,Xalisco,0,Sin nombre de localidad
+180090000,18,Nayarit,9,Del Nayar,0,Sin nombre de localidad
+180100000,18,Nayarit,10,Rosamorada,0,Sin nombre de localidad
+180110000,18,Nayarit,11,Ruíz,0,Sin nombre de localidad
+180120000,18,Nayarit,12,San Blas,0,Sin nombre de localidad
+180140000,18,Nayarit,14,Santa María del Oro,0,Sin nombre de localidad
+180150000,18,Nayarit,15,Santiago Ixcuintla,0,Sin nombre de localidad
+180160000,18,Nayarit,16,Tecuala,0,Sin nombre de localidad
+180170000,18,Nayarit,17,Tepic,0,Sin nombre de localidad
+180180000,18,Nayarit,18,Tuxpan,0,Sin nombre de localidad
+180200000,18,Nayarit,20,Bahía de Banderas,0,Sin nombre de localidad
+190010000,19,Nuevo León,1,Abasolo,0,Sin nombre de localidad
+190040000,19,Nuevo León,4,Allende,0,Sin nombre de localidad
+190050000,19,Nuevo León,5,Anáhuac,0,Sin nombre de localidad
+190060000,19,Nuevo León,6,Apodaca,0,Sin nombre de localidad
+190090000,19,Nuevo León,9,Cadereyta Jiménez,0,Sin nombre de localidad
+190100000,19,Nuevo León,10,El Carmen,0,Sin nombre de localidad
+190140000,19,Nuevo León,14,Doctor Arroyo,0,Sin nombre de localidad
+190160000,19,Nuevo León,16,Doctor González,0,Sin nombre de localidad
+190170000,19,Nuevo León,17,Galeana,0,Sin nombre de localidad
+190180000,19,Nuevo León,18,García,0,Sin nombre de localidad
+190190000,19,Nuevo León,19,San Pedro Garza García,0,Sin nombre de localidad
+190210000,19,Nuevo León,21,General Escobedo,0,Sin nombre de localidad
+190220000,19,Nuevo León,22,General Terán,0,Sin nombre de localidad
+190250000,19,Nuevo León,25,General Zuazua,0,Sin nombre de localidad
+190260000,19,Nuevo León,26,Guadalupe,0,Sin nombre de localidad
+190270000,19,Nuevo León,27,Los Herreras,0,Sin nombre de localidad
+190300000,19,Nuevo León,30,Iturbide,0,Sin nombre de localidad
+190310000,19,Nuevo León,31,Juárez,0,Sin nombre de localidad
+190330000,19,Nuevo León,33,Linares,0,Sin nombre de localidad
+190340000,19,Nuevo León,34,Marín,0,Sin nombre de localidad
+190380000,19,Nuevo León,38,Montemorelos,0,Sin nombre de localidad
+190390000,19,Nuevo León,39,Monterrey,0,Sin nombre de localidad
+190410000,19,Nuevo León,41,Pesquería,0,Sin nombre de localidad
+190420000,19,Nuevo León,42,Los Ramones,0,Sin nombre de localidad
+190440000,19,Nuevo León,44,Sabinas Hidalgo,0,Sin nombre de localidad
+190450000,19,Nuevo León,45,Salinas Victoria,0,Sin nombre de localidad
+190460000,19,Nuevo León,46,San Nicolás de los Garza,0,Sin nombre de localidad
+190480000,19,Nuevo León,48,Santa Catarina,0,Sin nombre de localidad
+190490000,19,Nuevo León,49,Santiago,0,Sin nombre de localidad
+190500000,19,Nuevo León,50,Vallecillo,0,Sin nombre de localidad
+200020000,20,Oaxaca,2,Acatlán de Pérez Figueroa,0,Sin nombre de localidad
+200050000,20,Oaxaca,5,Asunción Ixtaltepec,0,Sin nombre de localidad
+200140000,20,Oaxaca,14,Ciudad Ixtepec,0,Sin nombre de localidad
+200190000,20,Oaxaca,19,Concepción Pápalo,0,Sin nombre de localidad
+200230000,20,Oaxaca,23,Cuilápam de Guerrero,0,Sin nombre de localidad
+200300000,20,Oaxaca,30,El Espinal,0,Sin nombre de localidad
+200340000,20,Oaxaca,34,Guadalupe de Ramírez,0,Sin nombre de localidad
+200410000,20,Oaxaca,41,Huautla de Jiménez,0,Sin nombre de localidad
+200430000,20,Oaxaca,43,Juchitán de Zaragoza,0,Sin nombre de localidad
+200590000,20,Oaxaca,59,Miahuatlán de Porfirio Díaz,0,Sin nombre de localidad
+200640000,20,Oaxaca,64,Nejapa de Madero,0,Sin nombre de localidad
+200670000,20,Oaxaca,67,Oaxaca de Juárez,0,Sin nombre de localidad
+200790000,20,Oaxaca,79,Salina Cruz,0,Sin nombre de localidad
+200810000,20,Oaxaca,81,San Agustín Atenango,0,Sin nombre de localidad
+200830000,20,Oaxaca,83,San Agustín de las Juntas,0,Sin nombre de localidad
+200850000,20,Oaxaca,85,San Agustín Loxicha,0,Sin nombre de localidad
+201070000,20,Oaxaca,107,San Antonio de la Cal,0,Sin nombre de localidad
+201340000,20,Oaxaca,134,San Felipe Jalapa de Díaz,0,Sin nombre de localidad
+201410000,20,Oaxaca,141,San Francisco del Mar,0,Sin nombre de localidad
+201500000,20,Oaxaca,150,San Francisco Telixtlahuaca,0,Sin nombre de localidad
+201840000,20,Oaxaca,184,San Juan Bautista Tuxtepec,0,Sin nombre de localidad
+201880000,20,Oaxaca,188,San Juan Colorado,0,Sin nombre de localidad
+201900000,20,Oaxaca,190,San Juan Cotzocón,0,Sin nombre de localidad
+201980000,20,Oaxaca,198,San Juan Guichicovi,0,Sin nombre de localidad
+202070000,20,Oaxaca,207,San Juan Mazatlán,0,Sin nombre de localidad
+202530000,20,Oaxaca,253,San Mateo Piñas,0,Sin nombre de localidad
+202850000,20,Oaxaca,285,San Miguel Tlacamama,0,Sin nombre de localidad
+202950000,20,Oaxaca,295,San Pablo Huixtepec,0,Sin nombre de localidad
+202980000,20,Oaxaca,298,San Pablo Villa de Mitla,0,Sin nombre de localidad
+203000000,20,Oaxaca,300,San Pedro Amuzgos,0,Sin nombre de localidad
+203090000,20,Oaxaca,309,San Pedro Ixcatlán,0,Sin nombre de localidad
+203100000,20,Oaxaca,310,San Pedro Ixtlahuaca,0,Sin nombre de localidad
+203130000,20,Oaxaca,313,San Pedro Jocotipac,0,Sin nombre de localidad
+203150000,20,Oaxaca,315,San Pedro Mártir,0,Sin nombre de localidad
+203240000,20,Oaxaca,324,San Pedro Pochutla,0,Sin nombre de localidad
+203300000,20,Oaxaca,330,San Pedro Teutila,0,Sin nombre de localidad
+203340000,20,Oaxaca,334,Villa de Tututepec,0,Sin nombre de localidad
+203440000,20,Oaxaca,344,San Sebastián Coatlán,0,Sin nombre de localidad
+203460000,20,Oaxaca,346,San Sebastián Nicananduta,0,Sin nombre de localidad
+203500000,20,Oaxaca,350,San Sebastián Tutla,0,Sin nombre de localidad
+203590000,20,Oaxaca,359,Santa Ana Yareni,0,Sin nombre de localidad
+203750000,20,Oaxaca,375,Santa Cruz Amilpas,0,Sin nombre de localidad
+203850000,20,Oaxaca,385,Santa Cruz Xoxocotlán,0,Sin nombre de localidad
+203900000,20,Oaxaca,390,Santa Lucía del Camino,0,Sin nombre de localidad
+203990000,20,Oaxaca,399,Santa María Atzompa,0,Sin nombre de localidad
+204130000,20,Oaxaca,413,Santa María Huatulco,0,Sin nombre de localidad
+204180000,20,Oaxaca,418,Santa María Jalapa del Marqués,0,Sin nombre de localidad
+204310000,20,Oaxaca,431,Santa María Tecomavaca,0,Sin nombre de localidad
+204390000,20,Oaxaca,439,Santa María Tonameca,0,Sin nombre de localidad
+204540000,20,Oaxaca,454,Santiago Atitlán,0,Sin nombre de localidad
+204660000,20,Oaxaca,466,Santiago Ixtayutla,0,Sin nombre de localidad
+204720000,20,Oaxaca,472,Santiago Laollaga,0,Sin nombre de localidad
+204740000,20,Oaxaca,474,Santiago Llano Grande,0,Sin nombre de localidad
+204820000,20,Oaxaca,482,Santiago Pinotepa Nacional,0,Sin nombre de localidad
+204850000,20,Oaxaca,485,Santiago Tapextla,0,Sin nombre de localidad
+205150000,20,Oaxaca,515,Santo Domingo Tehuantepec,0,Sin nombre de localidad
+205170000,20,Oaxaca,517,Santo Domingo Tepuxtepec,0,Sin nombre de localidad
+205190000,20,Oaxaca,519,Santo Domingo Tomaltepec,0,Sin nombre de localidad
+205250000,20,Oaxaca,525,Santo Domingo Zanatepec,0,Sin nombre de localidad
+205260000,20,Oaxaca,526,Santos Reyes Nopala,0,Sin nombre de localidad
+205270000,20,Oaxaca,527,Santos Reyes Pápalo,0,Sin nombre de localidad
+205490000,20,Oaxaca,549,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",0,Sin nombre de localidad
+205510000,20,Oaxaca,551,Tlacolula de Matamoros,0,Sin nombre de localidad
+205530000,20,Oaxaca,553,Tlalixtac de Cabrera,0,Sin nombre de localidad
+205650000,20,Oaxaca,565,Villa de Zaachila,0,Sin nombre de localidad
+210040000,21,Puebla,4,Acatzingo,0,Sin nombre de localidad
+210130000,21,Puebla,13,Altepexi,0,Sin nombre de localidad
+210140000,21,Puebla,14,Amixtlán,0,Sin nombre de localidad
+210150000,21,Puebla,15,Amozoc,0,Sin nombre de localidad
+210160000,21,Puebla,16,Aquixtla,0,Sin nombre de localidad
+210190000,21,Puebla,19,Atlixco,0,Sin nombre de localidad
+210340000,21,Puebla,34,Coronango,0,Sin nombre de localidad
+210410000,21,Puebla,41,Cuautlancingo,0,Sin nombre de localidad
+210430000,21,Puebla,43,Cuetzalan del Progreso,0,Sin nombre de localidad
+210450000,21,Puebla,45,Chalchicomula de Sesma,0,Sin nombre de localidad
+210480000,21,Puebla,48,Chiautzingo,0,Sin nombre de localidad
+210510000,21,Puebla,51,Chietla,0,Sin nombre de localidad
+210530000,21,Puebla,53,Chignahuapan,0,Sin nombre de localidad
+210630000,21,Puebla,63,Esperanza,0,Sin nombre de localidad
+210660000,21,Puebla,66,Guadalupe,0,Sin nombre de localidad
+210710000,21,Puebla,71,Huauchinango,0,Sin nombre de localidad
+210740000,21,Puebla,74,Huejotzingo,0,Sin nombre de localidad
+210750000,21,Puebla,75,Hueyapan,0,Sin nombre de localidad
+210760000,21,Puebla,76,Hueytamalco,0,Sin nombre de localidad
+210790000,21,Puebla,79,Huitziltepec,0,Sin nombre de localidad
+210900000,21,Puebla,90,Juan C. Bonilla,0,Sin nombre de localidad
+210990000,21,Puebla,99,Cañada Morelos,0,Sin nombre de localidad
+211040000,21,Puebla,104,Nopalucan,0,Sin nombre de localidad
+211060000,21,Puebla,106,Ocoyucan,0,Sin nombre de localidad
+211100000,21,Puebla,110,Palmar de Bravo,0,Sin nombre de localidad
+211110000,21,Puebla,111,Pantepec,0,Sin nombre de localidad
+211140000,21,Puebla,114,Puebla,0,Sin nombre de localidad
+211150000,21,Puebla,115,Quecholac,0,Sin nombre de localidad
+211190000,21,Puebla,119,San Andrés Cholula,0,Sin nombre de localidad
+211290000,21,Puebla,129,San José Miahuatlán,0,Sin nombre de localidad
+211320000,21,Puebla,132,San Martín Texmelucan,0,Sin nombre de localidad
+211360000,21,Puebla,136,San Miguel Xoxtla,0,Sin nombre de localidad
+211390000,21,Puebla,139,San Pablo Anicano,0,Sin nombre de localidad
+211400000,21,Puebla,140,San Pedro Cholula,0,Sin nombre de localidad
+211420000,21,Puebla,142,San Salvador el Seco,0,Sin nombre de localidad
+211430000,21,Puebla,143,San Salvador el Verde,0,Sin nombre de localidad
+211530000,21,Puebla,153,Tecali de Herrera,0,Sin nombre de localidad
+211540000,21,Puebla,154,Tecamachalco,0,Sin nombre de localidad
+211560000,21,Puebla,156,Tehuacán,0,Sin nombre de localidad
+211600000,21,Puebla,160,Teotlalco,0,Sin nombre de localidad
+211710000,21,Puebla,171,Tepeyahualco de Cuauhtémoc,0,Sin nombre de localidad
+211740000,21,Puebla,174,Teziutlán,0,Sin nombre de localidad
+211770000,21,Puebla,177,Tlacotepec de Benito Juárez,0,Sin nombre de localidad
+211790000,21,Puebla,179,Tlachichuca,0,Sin nombre de localidad
+211800000,21,Puebla,180,Tlahuapan,0,Sin nombre de localidad
+211820000,21,Puebla,182,Tlanepantla,0,Sin nombre de localidad
+211860000,21,Puebla,186,Tlatlauquitepec,0,Sin nombre de localidad
+211970000,21,Puebla,197,Xicotepec,0,Sin nombre de localidad
+212050000,21,Puebla,205,Yehualtepec,0,Sin nombre de localidad
+212120000,21,Puebla,212,Zautla,0,Sin nombre de localidad
+212130000,21,Puebla,213,Zihuateutla,0,Sin nombre de localidad
+220010000,22,Querétaro,1,Amealco de Bonfil,0,Sin nombre de localidad
+220030000,22,Querétaro,3,Arroyo Seco,0,Sin nombre de localidad
+220040000,22,Querétaro,4,Cadereyta de Montes,0,Sin nombre de localidad
+220060000,22,Querétaro,6,Corregidora,0,Sin nombre de localidad
+220070000,22,Querétaro,7,Ezequiel Montes,0,Sin nombre de localidad
+220080000,22,Querétaro,8,Huimilpan,0,Sin nombre de localidad
+220090000,22,Querétaro,9,Jalpan de Serra,0,Sin nombre de localidad
+220100000,22,Querétaro,10,Landa de Matamoros,0,Sin nombre de localidad
+220110000,22,Querétaro,11,El Marqués,0,Sin nombre de localidad
+220120000,22,Querétaro,12,Pedro Escobedo,0,Sin nombre de localidad
+220140000,22,Querétaro,14,Querétaro,0,Sin nombre de localidad
+220150000,22,Querétaro,15,San Joaquín,0,Sin nombre de localidad
+220160000,22,Querétaro,16,San Juan del Río,0,Sin nombre de localidad
+220170000,22,Querétaro,17,Tequisquiapan,0,Sin nombre de localidad
+220180000,22,Querétaro,18,Tolimán,0,Sin nombre de localidad
+230010000,23,Quintana Roo,1,Cozumel,0,Sin nombre de localidad
+230020000,23,Quintana Roo,2,Felipe Carrillo Puerto,0,Sin nombre de localidad
+230030000,23,Quintana Roo,3,Isla Mujeres,0,Sin nombre de localidad
+230040000,23,Quintana Roo,4,Othón P. Blanco,0,Sin nombre de localidad
+230050000,23,Quintana Roo,5,Benito Juárez,0,Sin nombre de localidad
+230060000,23,Quintana Roo,6,José María Morelos,0,Sin nombre de localidad
+230070000,23,Quintana Roo,7,Lázaro Cárdenas,0,Sin nombre de localidad
+230080000,23,Quintana Roo,8,Solidaridad,0,Sin nombre de localidad
+230090000,23,Quintana Roo,9,Tulum,0,Sin nombre de localidad
+230100000,23,Quintana Roo,10,Bacalar,0,Sin nombre de localidad
+240010000,24,San Luis Potosí,1,Ahualulco del Sonido 13,0,Sin nombre de localidad
+240030000,24,San Luis Potosí,3,Aquismón,0,Sin nombre de localidad
+240100000,24,San Luis Potosí,10,Ciudad del Maíz,0,Sin nombre de localidad
+240110000,24,San Luis Potosí,11,Ciudad Fernández,0,Sin nombre de localidad
+240130000,24,San Luis Potosí,13,Ciudad Valles,0,Sin nombre de localidad
+240140000,24,San Luis Potosí,14,Coxcatlán,0,Sin nombre de localidad
+240150000,24,San Luis Potosí,15,Charcas,0,Sin nombre de localidad
+240160000,24,San Luis Potosí,16,Ebano,0,Sin nombre de localidad
+240190000,24,San Luis Potosí,19,Lagunillas,0,Sin nombre de localidad
+240200000,24,San Luis Potosí,20,Matehuala,0,Sin nombre de localidad
+240210000,24,San Luis Potosí,21,Mexquitic de Carmona,0,Sin nombre de localidad
+240220000,24,San Luis Potosí,22,Moctezuma,0,Sin nombre de localidad
+240240000,24,San Luis Potosí,24,Rioverde,0,Sin nombre de localidad
+240250000,24,San Luis Potosí,25,Salinas,0,Sin nombre de localidad
+240270000,24,San Luis Potosí,27,San Ciro de Acosta,0,Sin nombre de localidad
+240280000,24,San Luis Potosí,28,San Luis Potosí,0,Sin nombre de localidad
+240290000,24,San Luis Potosí,29,San Martín Chalchicuautla,0,Sin nombre de localidad
+240310000,24,San Luis Potosí,31,Santa Catarina,0,Sin nombre de localidad
+240350000,24,San Luis Potosí,35,Soledad de Graciano Sánchez,0,Sin nombre de localidad
+240360000,24,San Luis Potosí,36,Tamasopo,0,Sin nombre de localidad
+240370000,24,San Luis Potosí,37,Tamazunchale,0,Sin nombre de localidad
+240400000,24,San Luis Potosí,40,Tamuín,0,Sin nombre de localidad
+240420000,24,San Luis Potosí,42,Tanquián de Escobedo,0,Sin nombre de localidad
+240460000,24,San Luis Potosí,46,Villa de Arriaga,0,Sin nombre de localidad
+240490000,24,San Luis Potosí,49,Villa de Ramos,0,Sin nombre de localidad
+240500000,24,San Luis Potosí,50,Villa de Reyes,0,Sin nombre de localidad
+240520000,24,San Luis Potosí,52,Villa Juárez,0,Sin nombre de localidad
+240540000,24,San Luis Potosí,54,Xilitla,0,Sin nombre de localidad
+240570000,24,San Luis Potosí,57,Matlapa,0,Sin nombre de localidad
+240580000,24,San Luis Potosí,58,El Naranjo,0,Sin nombre de localidad
+250010000,25,Sinaloa,1,Ahome,0,Sin nombre de localidad
+250020000,25,Sinaloa,2,Angostura,0,Sin nombre de localidad
+250030000,25,Sinaloa,3,Badiraguato,0,Sin nombre de localidad
+250040000,25,Sinaloa,4,Concordia,0,Sin nombre de localidad
+250050000,25,Sinaloa,5,Cosalá,0,Sin nombre de localidad
+250060000,25,Sinaloa,6,Culiacán,0,Sin nombre de localidad
+250070000,25,Sinaloa,7,Choix,0,Sin nombre de localidad
+250080000,25,Sinaloa,8,Elota,0,Sin nombre de localidad
+250090000,25,Sinaloa,9,Escuinapa,0,Sin nombre de localidad
+250100000,25,Sinaloa,10,El Fuerte,0,Sin nombre de localidad
+250110000,25,Sinaloa,11,Guasave,0,Sin nombre de localidad
+250120000,25,Sinaloa,12,Mazatlán,0,Sin nombre de localidad
+250130000,25,Sinaloa,13,Mocorito,0,Sin nombre de localidad
+250140000,25,Sinaloa,14,Rosario,0,Sin nombre de localidad
+250150000,25,Sinaloa,15,Salvador Alvarado,0,Sin nombre de localidad
+250160000,25,Sinaloa,16,San Ignacio,0,Sin nombre de localidad
+250170000,25,Sinaloa,17,Sinaloa,0,Sin nombre de localidad
+250180000,25,Sinaloa,18,Navolato,0,Sin nombre de localidad
+260020000,26,Sonora,2,Agua Prieta,0,Sin nombre de localidad
+260030000,26,Sonora,3,Álamos,0,Sin nombre de localidad
+260040000,26,Sonora,4,Altar,0,Sin nombre de localidad
+260070000,26,Sonora,7,Atil,0,Sin nombre de localidad
+260110000,26,Sonora,11,Bacoachi,0,Sin nombre de localidad
+260170000,26,Sonora,17,Caborca,0,Sin nombre de localidad
+260180000,26,Sonora,18,Cajeme,0,Sin nombre de localidad
+260250000,26,Sonora,25,Empalme,0,Sin nombre de localidad
+260260000,26,Sonora,26,Etchojoa,0,Sin nombre de localidad
+260290000,26,Sonora,29,Guaymas,0,Sin nombre de localidad
+260300000,26,Sonora,30,Hermosillo,0,Sin nombre de localidad
+260330000,26,Sonora,33,Huatabampo,0,Sin nombre de localidad
+260350000,26,Sonora,35,Imuris,0,Sin nombre de localidad
+260360000,26,Sonora,36,Magdalena,0,Sin nombre de localidad
+260420000,26,Sonora,42,Navojoa,0,Sin nombre de localidad
+260430000,26,Sonora,43,Nogales,0,Sin nombre de localidad
+260480000,26,Sonora,48,Puerto Peñasco,0,Sin nombre de localidad
+260490000,26,Sonora,49,Quiriego,0,Sin nombre de localidad
+260520000,26,Sonora,52,Sahuaripa,0,Sin nombre de localidad
+260550000,26,Sonora,55,San Luis Río Colorado,0,Sin nombre de localidad
+260690000,26,Sonora,69,Yécora,0,Sin nombre de localidad
+260710000,26,Sonora,71,Benito Juárez,0,Sin nombre de localidad
+270010000,27,Tabasco,1,Balancán,0,Sin nombre de localidad
+270020000,27,Tabasco,2,Cárdenas,0,Sin nombre de localidad
+270030000,27,Tabasco,3,Centla,0,Sin nombre de localidad
+270040000,27,Tabasco,4,Centro,0,Sin nombre de localidad
+270050000,27,Tabasco,5,Comalcalco,0,Sin nombre de localidad
+270060000,27,Tabasco,6,Cunduacán,0,Sin nombre de localidad
+270070000,27,Tabasco,7,Emiliano Zapata,0,Sin nombre de localidad
+270080000,27,Tabasco,8,Huimanguillo,0,Sin nombre de localidad
+270090000,27,Tabasco,9,Jalapa,0,Sin nombre de localidad
+270100000,27,Tabasco,10,Jalpa de Méndez,0,Sin nombre de localidad
+270110000,27,Tabasco,11,Jonuta,0,Sin nombre de localidad
+270120000,27,Tabasco,12,Macuspana,0,Sin nombre de localidad
+270130000,27,Tabasco,13,Nacajuca,0,Sin nombre de localidad
+270140000,27,Tabasco,14,Paraíso,0,Sin nombre de localidad
+270150000,27,Tabasco,15,Tacotalpa,0,Sin nombre de localidad
+270160000,27,Tabasco,16,Teapa,0,Sin nombre de localidad
+270170000,27,Tabasco,17,Tenosique,0,Sin nombre de localidad
+280020000,28,Tamaulipas,2,Aldama,0,Sin nombre de localidad
+280030000,28,Tamaulipas,3,Altamira,0,Sin nombre de localidad
+280040000,28,Tamaulipas,4,Antiguo Morelos,0,Sin nombre de localidad
+280090000,28,Tamaulipas,9,Ciudad Madero,0,Sin nombre de localidad
+280130000,28,Tamaulipas,13,GÃ¼émez,0,Sin nombre de localidad
+280150000,28,Tamaulipas,15,Gustavo Díaz Ordaz,0,Sin nombre de localidad
+280160000,28,Tamaulipas,16,Hidalgo,0,Sin nombre de localidad
+280170000,28,Tamaulipas,17,Jaumave,0,Sin nombre de localidad
+280190000,28,Tamaulipas,19,Llera,0,Sin nombre de localidad
+280210000,28,Tamaulipas,21,El Mante,0,Sin nombre de localidad
+280220000,28,Tamaulipas,22,Matamoros,0,Sin nombre de localidad
+280270000,28,Tamaulipas,27,Nuevo Laredo,0,Sin nombre de localidad
+280290000,28,Tamaulipas,29,Ocampo,0,Sin nombre de localidad
+280300000,28,Tamaulipas,30,Padilla,0,Sin nombre de localidad
+280320000,28,Tamaulipas,32,Reynosa,0,Sin nombre de localidad
+280330000,28,Tamaulipas,33,Río Bravo,0,Sin nombre de localidad
+280370000,28,Tamaulipas,37,Soto la Marina,0,Sin nombre de localidad
+280380000,28,Tamaulipas,38,Tampico,0,Sin nombre de localidad
+280390000,28,Tamaulipas,39,Tula,0,Sin nombre de localidad
+280400000,28,Tamaulipas,40,Valle Hermoso,0,Sin nombre de localidad
+280410000,28,Tamaulipas,41,Victoria,0,Sin nombre de localidad
+280420000,28,Tamaulipas,42,Villagrán,0,Sin nombre de localidad
+290010000,29,Tlaxcala,1,Amaxac de Guerrero,0,Sin nombre de localidad
+290020000,29,Tlaxcala,2,Apetatitlán de Antonio Carvajal,0,Sin nombre de localidad
+290050000,29,Tlaxcala,5,Apizaco,0,Sin nombre de localidad
+290060000,29,Tlaxcala,6,Calpulalpan,0,Sin nombre de localidad
+290080000,29,Tlaxcala,8,Cuapiaxtla,0,Sin nombre de localidad
+290090000,29,Tlaxcala,9,Cuaxomulco,0,Sin nombre de localidad
+290100000,29,Tlaxcala,10,Chiautempan,0,Sin nombre de localidad
+290130000,29,Tlaxcala,13,Huamantla,0,Sin nombre de localidad
+290140000,29,Tlaxcala,14,Hueyotlipan,0,Sin nombre de localidad
+290150000,29,Tlaxcala,15,Ixtacuixtla de Mariano Matamoros,0,Sin nombre de localidad
+290170000,29,Tlaxcala,17,Mazatecochco de José María Morelos,0,Sin nombre de localidad
+290180000,29,Tlaxcala,18,Contla de Juan Cuamatzi,0,Sin nombre de localidad
+290190000,29,Tlaxcala,19,Tepetitla de Lardizábal,0,Sin nombre de localidad
+290210000,29,Tlaxcala,21,Nanacamilpa de Mariano Arista,0,Sin nombre de localidad
+290230000,29,Tlaxcala,23,Natívitas,0,Sin nombre de localidad
+290240000,29,Tlaxcala,24,Panotla,0,Sin nombre de localidad
+290250000,29,Tlaxcala,25,San Pablo del Monte,0,Sin nombre de localidad
+290260000,29,Tlaxcala,26,Santa Cruz Tlaxcala,0,Sin nombre de localidad
+290270000,29,Tlaxcala,27,Tenancingo,0,Sin nombre de localidad
+290280000,29,Tlaxcala,28,Teolocholco,0,Sin nombre de localidad
+290290000,29,Tlaxcala,29,Tepeyanco,0,Sin nombre de localidad
+290300000,29,Tlaxcala,30,Terrenate,0,Sin nombre de localidad
+290310000,29,Tlaxcala,31,Tetla de la Solidaridad,0,Sin nombre de localidad
+290320000,29,Tlaxcala,32,Tetlatlahuca,0,Sin nombre de localidad
+290330000,29,Tlaxcala,33,Tlaxcala,0,Sin nombre de localidad
+290340000,29,Tlaxcala,34,Tlaxco,0,Sin nombre de localidad
+290350000,29,Tlaxcala,35,Tocatlán,0,Sin nombre de localidad
+290360000,29,Tlaxcala,36,Totolac,0,Sin nombre de localidad
+290370000,29,Tlaxcala,37,Ziltlaltépec de Trinidad Sánchez Santos,0,Sin nombre de localidad
+290380000,29,Tlaxcala,38,Tzompantepec,0,Sin nombre de localidad
+290390000,29,Tlaxcala,39,Xaloztoc,0,Sin nombre de localidad
+290400000,29,Tlaxcala,40,Xaltocan,0,Sin nombre de localidad
+290410000,29,Tlaxcala,41,Papalotla de Xicohténcatl,0,Sin nombre de localidad
+290420000,29,Tlaxcala,42,Xicohtzinco,0,Sin nombre de localidad
+290430000,29,Tlaxcala,43,Yauhquemehcan,0,Sin nombre de localidad
+290440000,29,Tlaxcala,44,Zacatelco,0,Sin nombre de localidad
+290450000,29,Tlaxcala,45,Benito Juárez,0,Sin nombre de localidad
+290480000,29,Tlaxcala,48,La Magdalena Tlaltelulco,0,Sin nombre de localidad
+290500000,29,Tlaxcala,50,San Francisco Tetlanohcan,0,Sin nombre de localidad
+290510000,29,Tlaxcala,51,San Jerónimo Zacualpan,0,Sin nombre de localidad
+290530000,29,Tlaxcala,53,San Juan Huactzinco,0,Sin nombre de localidad
+290550000,29,Tlaxcala,55,San Lucas Tecopilco,0,Sin nombre de localidad
+290560000,29,Tlaxcala,56,Santa Ana Nopalucan,0,Sin nombre de localidad
+290570000,29,Tlaxcala,57,Santa Apolonia Teacalco,0,Sin nombre de localidad
+290580000,29,Tlaxcala,58,Santa Catarina Ayometla,0,Sin nombre de localidad
+290600000,29,Tlaxcala,60,Santa Isabel Xiloxoxtla,0,Sin nombre de localidad
+300030000,30,Veracruz de Ignacio de la Llave,3,Acayucan,0,Sin nombre de localidad
+300060000,30,Veracruz de Ignacio de la Llave,6,Acultzingo,0,Sin nombre de localidad
+300140000,30,Veracruz de Ignacio de la Llave,14,Amatlán de los Reyes,0,Sin nombre de localidad
+300160000,30,Veracruz de Ignacio de la Llave,16,La Antigua,0,Sin nombre de localidad
+300220000,30,Veracruz de Ignacio de la Llave,22,Atzacan,0,Sin nombre de localidad
+300240000,30,Veracruz de Ignacio de la Llave,24,Tlaltetela,0,Sin nombre de localidad
+300260000,30,Veracruz de Ignacio de la Llave,26,Banderilla,0,Sin nombre de localidad
+300280000,30,Veracruz de Ignacio de la Llave,28,Boca del Río,0,Sin nombre de localidad
+300300000,30,Veracruz de Ignacio de la Llave,30,Camerino Z. Mendoza,0,Sin nombre de localidad
+300310000,30,Veracruz de Ignacio de la Llave,31,Carrillo Puerto,0,Sin nombre de localidad
+300350000,30,Veracruz de Ignacio de la Llave,35,Citlaltépetl,0,Sin nombre de localidad
+300380000,30,Veracruz de Ignacio de la Llave,38,Coatepec,0,Sin nombre de localidad
+300390000,30,Veracruz de Ignacio de la Llave,39,Coatzacoalcos,0,Sin nombre de localidad
+300400000,30,Veracruz de Ignacio de la Llave,40,Coatzintla,0,Sin nombre de localidad
+300430000,30,Veracruz de Ignacio de la Llave,43,Comapa,0,Sin nombre de localidad
+300440000,30,Veracruz de Ignacio de la Llave,44,Córdoba,0,Sin nombre de localidad
+300460000,30,Veracruz de Ignacio de la Llave,46,Cosautlán de Carvajal,0,Sin nombre de localidad
+300480000,30,Veracruz de Ignacio de la Llave,48,Cosoleacaque,0,Sin nombre de localidad
+300510000,30,Veracruz de Ignacio de la Llave,51,Coyutla,0,Sin nombre de localidad
+300530000,30,Veracruz de Ignacio de la Llave,53,Cuitláhuac,0,Sin nombre de localidad
+300600000,30,Veracruz de Ignacio de la Llave,60,Chinampa de Gorostiza,0,Sin nombre de localidad
+300610000,30,Veracruz de Ignacio de la Llave,61,Las Choapas,0,Sin nombre de localidad
+300620000,30,Veracruz de Ignacio de la Llave,62,Chocamán,0,Sin nombre de localidad
+300630000,30,Veracruz de Ignacio de la Llave,63,Chontla,0,Sin nombre de localidad
+300690000,30,Veracruz de Ignacio de la Llave,69,Gutiérrez Zamora,0,Sin nombre de localidad
+300720000,30,Veracruz de Ignacio de la Llave,72,Huayacocotla,0,Sin nombre de localidad
+300730000,30,Veracruz de Ignacio de la Llave,73,Hueyapan de Ocampo,0,Sin nombre de localidad
+300850000,30,Veracruz de Ignacio de la Llave,85,Ixtaczoquitlán,0,Sin nombre de localidad
+300870000,30,Veracruz de Ignacio de la Llave,87,Xalapa,0,Sin nombre de localidad
+301020000,30,Veracruz de Ignacio de la Llave,102,Martínez de la Torre,0,Sin nombre de localidad
+301030000,30,Veracruz de Ignacio de la Llave,103,Mecatlán,0,Sin nombre de localidad
+301050000,30,Veracruz de Ignacio de la Llave,105,Medellín de Bravo,0,Sin nombre de localidad
+301080000,30,Veracruz de Ignacio de la Llave,108,Minatitlán,0,Sin nombre de localidad
+301150000,30,Veracruz de Ignacio de la Llave,115,Nogales,0,Sin nombre de localidad
+301180000,30,Veracruz de Ignacio de la Llave,118,Orizaba,0,Sin nombre de localidad
+301230000,30,Veracruz de Ignacio de la Llave,123,Pánuco,0,Sin nombre de localidad
+301240000,30,Veracruz de Ignacio de la Llave,124,Papantla,0,Sin nombre de localidad
+301310000,30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,0,Sin nombre de localidad
+301320000,30,Veracruz de Ignacio de la Llave,132,Las Vigas de Ramírez,0,Sin nombre de localidad
+301330000,30,Veracruz de Ignacio de la Llave,133,Pueblo Viejo,0,Sin nombre de localidad
+301350000,30,Veracruz de Ignacio de la Llave,135,Rafael Delgado,0,Sin nombre de localidad
+301380000,30,Veracruz de Ignacio de la Llave,138,Río Blanco,0,Sin nombre de localidad
+301410000,30,Veracruz de Ignacio de la Llave,141,San Andrés Tuxtla,0,Sin nombre de localidad
+301440000,30,Veracruz de Ignacio de la Llave,144,Sayula de Alemán,0,Sin nombre de localidad
+301480000,30,Veracruz de Ignacio de la Llave,148,Soledad de Doblado,0,Sin nombre de localidad
+301490000,30,Veracruz de Ignacio de la Llave,149,Soteapan,0,Sin nombre de localidad
+301510000,30,Veracruz de Ignacio de la Llave,151,Tamiahua,0,Sin nombre de localidad
+301570000,30,Veracruz de Ignacio de la Llave,157,Castillo de Teayo,0,Sin nombre de localidad
+301600000,30,Veracruz de Ignacio de la Llave,160,Álamo Temapache,0,Sin nombre de localidad
+301640000,30,Veracruz de Ignacio de la Llave,164,Teocelo,0,Sin nombre de localidad
+301680000,30,Veracruz de Ignacio de la Llave,168,Tequila,0,Sin nombre de localidad
+301690000,30,Veracruz de Ignacio de la Llave,169,José Azueta,0,Sin nombre de localidad
+301750000,30,Veracruz de Ignacio de la Llave,175,Tihuatlán,0,Sin nombre de localidad
+301760000,30,Veracruz de Ignacio de la Llave,176,Tlacojalpan,0,Sin nombre de localidad
+301770000,30,Veracruz de Ignacio de la Llave,177,Tlacolulan,0,Sin nombre de localidad
+301870000,30,Veracruz de Ignacio de la Llave,187,Tonayán,0,Sin nombre de localidad
+301880000,30,Veracruz de Ignacio de la Llave,188,Totutla,0,Sin nombre de localidad
+301890000,30,Veracruz de Ignacio de la Llave,189,Tuxpan,0,Sin nombre de localidad
+301930000,30,Veracruz de Ignacio de la Llave,193,Veracruz,0,Sin nombre de localidad
+301940000,30,Veracruz de Ignacio de la Llave,194,Villa Aldama,0,Sin nombre de localidad
+301990000,30,Veracruz de Ignacio de la Llave,199,Zaragoza,0,Sin nombre de localidad
+302020000,30,Veracruz de Ignacio de la Llave,202,Zontecomatlán de López y Fuentes,0,Sin nombre de localidad
+302060000,30,Veracruz de Ignacio de la Llave,206,Nanchital de Lázaro Cárdenas del Río,0,Sin nombre de localidad
+302070000,30,Veracruz de Ignacio de la Llave,207,Tres Valles,0,Sin nombre de localidad
+302090000,30,Veracruz de Ignacio de la Llave,209,Tatahuicapan de Juárez,0,Sin nombre de localidad
+302110000,30,Veracruz de Ignacio de la Llave,211,San Rafael,0,Sin nombre de localidad
+310010000,31,Yucatán,1,Abalá,0,Sin nombre de localidad
+310070000,31,Yucatán,7,Cacalchén,0,Sin nombre de localidad
+310080000,31,Yucatán,8,Calotmul,0,Sin nombre de localidad
+310130000,31,Yucatán,13,Conkal,0,Sin nombre de localidad
+310180000,31,Yucatán,18,Chapab,0,Sin nombre de localidad
+310190000,31,Yucatán,19,Chemax,0,Sin nombre de localidad
+310210000,31,Yucatán,21,Chichimilá,0,Sin nombre de localidad
+310250000,31,Yucatán,25,Dzan,0,Sin nombre de localidad
+310270000,31,Yucatán,27,Dzidzantún,0,Sin nombre de localidad
+310300000,31,Yucatán,30,Dzitás,0,Sin nombre de localidad
+310320000,31,Yucatán,32,Espita,0,Sin nombre de localidad
+310330000,31,Yucatán,33,Halachó,0,Sin nombre de localidad
+310340000,31,Yucatán,34,Hocabá,0,Sin nombre de localidad
+310350000,31,Yucatán,35,Hoctún,0,Sin nombre de localidad
+310360000,31,Yucatán,36,Homún,0,Sin nombre de localidad
+310380000,31,Yucatán,38,Hunucmá,0,Sin nombre de localidad
+310410000,31,Yucatán,41,Kanasín,0,Sin nombre de localidad
+310460000,31,Yucatán,46,Mama,0,Sin nombre de localidad
+310500000,31,Yucatán,50,Mérida,0,Sin nombre de localidad
+310520000,31,Yucatán,52,Motul,0,Sin nombre de localidad
+310540000,31,Yucatán,54,Muxupip,0,Sin nombre de localidad
+310550000,31,Yucatán,55,Opichén,0,Sin nombre de localidad
+310580000,31,Yucatán,58,Peto,0,Sin nombre de localidad
+310590000,31,Yucatán,59,Progreso,0,Sin nombre de localidad
+310630000,31,Yucatán,63,Samahil,0,Sin nombre de localidad
+310640000,31,Yucatán,64,Sanahcat,0,Sin nombre de localidad
+310670000,31,Yucatán,67,Seyé,0,Sin nombre de localidad
+310690000,31,Yucatán,69,Sotuta,0,Sin nombre de localidad
+310730000,31,Yucatán,73,Tahdziú,0,Sin nombre de localidad
+310760000,31,Yucatán,76,Tecoh,0,Sin nombre de localidad
+310790000,31,Yucatán,79,Tekax,0,Sin nombre de localidad
+310830000,31,Yucatán,83,Telchac Puerto,0,Sin nombre de localidad
+310850000,31,Yucatán,85,Temozón,0,Sin nombre de localidad
+310860000,31,Yucatán,86,Tepakán,0,Sin nombre de localidad
+310890000,31,Yucatán,89,Ticul,0,Sin nombre de localidad
+310910000,31,Yucatán,91,Tinum,0,Sin nombre de localidad
+310920000,31,Yucatán,92,Tixcacalcupul,0,Sin nombre de localidad
+310930000,31,Yucatán,93,Tixkokob,0,Sin nombre de localidad
+310960000,31,Yucatán,96,Tizimín,0,Sin nombre de localidad
+310980000,31,Yucatán,98,Tzucacab,0,Sin nombre de localidad
+311010000,31,Yucatán,101,Umán,0,Sin nombre de localidad
+311020000,31,Yucatán,102,Valladolid,0,Sin nombre de localidad
+311040000,31,Yucatán,104,Yaxcabá,0,Sin nombre de localidad
+311060000,31,Yucatán,106,Yobaín,0,Sin nombre de localidad
+320030000,32,Zacatecas,3,Atolinga,0,Sin nombre de localidad
+320050000,32,Zacatecas,5,Calera,0,Sin nombre de localidad
+320060000,32,Zacatecas,6,Cañitas de Felipe Pescador,0,Sin nombre de localidad
+320100000,32,Zacatecas,10,Fresnillo,0,Sin nombre de localidad
+320130000,32,Zacatecas,13,General Enrique Estrada,0,Sin nombre de localidad
+320160000,32,Zacatecas,16,General Pánfilo Natera,0,Sin nombre de localidad
+320170000,32,Zacatecas,17,Guadalupe,0,Sin nombre de localidad
+320180000,32,Zacatecas,18,Huanusco,0,Sin nombre de localidad
+320200000,32,Zacatecas,20,Jerez,0,Sin nombre de localidad
+320220000,32,Zacatecas,22,Juan Aldama,0,Sin nombre de localidad
+320230000,32,Zacatecas,23,Juchipila,0,Sin nombre de localidad
+320250000,32,Zacatecas,25,Luis Moya,0,Sin nombre de localidad
+320290000,32,Zacatecas,29,Miguel Auza,0,Sin nombre de localidad
+320310000,32,Zacatecas,31,Monte Escobedo,0,Sin nombre de localidad
+320340000,32,Zacatecas,34,Nochistlán de Mejía,0,Sin nombre de localidad
+320350000,32,Zacatecas,35,Noria de Ángeles,0,Sin nombre de localidad
+320360000,32,Zacatecas,36,Ojocaliente,0,Sin nombre de localidad
+320370000,32,Zacatecas,37,Pánuco,0,Sin nombre de localidad
+320380000,32,Zacatecas,38,Pinos,0,Sin nombre de localidad
+320390000,32,Zacatecas,39,Río Grande,0,Sin nombre de localidad
+320400000,32,Zacatecas,40,Sain Alto,0,Sin nombre de localidad
+320410000,32,Zacatecas,41,El Salvador,0,Sin nombre de localidad
+320420000,32,Zacatecas,42,Sombrerete,0,Sin nombre de localidad
+320440000,32,Zacatecas,44,Tabasco,0,Sin nombre de localidad
+320480000,32,Zacatecas,48,Tlaltenango de Sánchez Román,0,Sin nombre de localidad
+320490000,32,Zacatecas,49,Valparaíso,0,Sin nombre de localidad
+320500000,32,Zacatecas,50,Vetagrande,0,Sin nombre de localidad
+320510000,32,Zacatecas,51,Villa de Cos,0,Sin nombre de localidad
+320530000,32,Zacatecas,53,Villa González Ortega,0,Sin nombre de localidad
+320540000,32,Zacatecas,54,Villa Hidalgo,0,Sin nombre de localidad
+320550000,32,Zacatecas,55,Villanueva,0,Sin nombre de localidad
+320560000,32,Zacatecas,56,Zacatecas,0,Sin nombre de localidad
+320570000,32,Zacatecas,57,Trancoso,0,Sin nombre de localidad
+320580000,32,Zacatecas,58,Santa María de la Paz,0,Sin nombre de localidad

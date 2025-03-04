@@ -1,0 +1,249 @@
+Tabla HOGARES,,,,,
+,,,,,
+#,Variable,Descripci¢n,Tipo,Categor¡as,
+,,,,valor,etiqueta o rango
+1,folioviv,"Identificador de la vivienda compuesto por dos d¡gitos con la clave de la entidad federativa, uno con el  mbito (urbano, c¢digo diferente a 6; rural, c¢digo 6), cuatro d¡gitos del n£mero consecutivo de la upm, un d¡gito de la decena de levantamiento y dos d¡gitos con un n£mero consecutivo para la vivienda seleccionada.",C (10),,
+2,foliohog,El c¢digo 1 identifica al hogar principal y del 2 al 5 los hogares adicionales.,C (1),,
+3,huespedes,Personas que pagan en esta vivienda para dormir.,N (1),,
+4,huesp_come,Personas que pagan para comer en el hogar.,N (1),,
+5,num_trab_d,"Trabajadores dom‚sticos, incluyendo a sus familiares.",N (1),,
+6,trab_come,Comen de los mismos alimentos que preparan en este hogar.,N (1),,
+7,acc_alim1,"Alguna vez por falta de dinero o recursos, se vio en la preocupaci¢n que la comida se acabara.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+8,acc_alim2,Alguna vez por falta de dinero o recursos se quedaron sin comida.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+9,acc_alim3,Alguna vez por falta de dinero o recursos no obtuvieron una alimentaci¢n sana y variada.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+10,acc_alim4,Alguna vez por falta de dinero o recursos alg£n adulto no obtuvo una alimentaci¢n sana y variada.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+11,acc_alim5,"Alguna vez por falta de dinero o recursos alg£n adulto no tuvo desayuno, comida o cena.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+12,acc_alim6,Alguna vez por falta de dinero o recursos alg£n adulto comi¢ menos de lo pensado.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+13,acc_alim7,Alguna vez por falta de dinero o recursos alg£n adulto sinti¢ hambre pero no comi¢.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+14,acc_alim8,Alguna vez por falta de dinero o recursos alg£n adulto comi¢ solo una vez o dej¢ de comer un d¡a.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+15,acc_alim9,Alguna vez por falta de dinero o recursos alg£n adulto tuvo que mendigar o mandar a ni¤os a trabajar.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+16,acc_alim10,Alguna vez por falta de dinero o recursos alg£n menor no tuvo alimentaci¢n sana y variada.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+17,acc_alim11,Alguna vez por falta de dinero o recursos alg£n menor tuvo una alimentaci¢n poco variada.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+18,acc_alim12,Alguna vez por falta de dinero o recursos alg£n menor tuvo una reducida alimentaci¢n.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+19,acc_alim13,Alguna vez por falta de dinero o recursos alg£n menor recibi¢ menos cantidad de alimentos.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+20,acc_alim14,Alguna vez por falta de dinero o recursos alg£n menor sinti¢ hambre pero no comi¢.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+21,acc_alim15,Alguna vez por falta de dinero o recursos alg£n menor se acost¢ con hambre.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+22,acc_alim16,Alguna vez por falta de dinero o recursos alg£n menor dej¢ de comer todo un d¡a.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+23,alim17_1,"N£mero de d¡as que comieron alimentos hechos de ma¡z, trigo, arroz, avena, salvado, etc‚tera, durante la £ltima semana.",N (1),,
+24,alim17_2,"N£mero de d¡as que comieron alimentos provenientes de ra¡ces o tub‚rculos, durante la £ltima semana.",N (1),,
+25,alim17_3,N£mero de d¡as que comieron verduras durante la £ltima semana.,N (1),,
+26,alim17_4,N£mero de d¡as que comieron frutas durante la £ltima semana.,N (1),,
+27,alim17_5,N£mero de d¡as que comieron carne durante la £ltima semana.,N (1),,
+28,alim17_6,N£mero de d¡as que comieron huevo durante la £ltima semana.,N (1),,
+29,alim17_7,N£mero de d¡as que comieron pescado o mariscos durante la £ltima semana.,N (1),,
+30,alim17_8,N£mero de d¡as que comieron leguminosas o semillas durante la £ltima semana.,N (1),,
+31,alim17_9,N£mero de d¡as que comieron productos l cteos durante la £ltima semana.,N (1),,
+32,alim17_10,N£mero de d¡as que comieron aceites o grasas durante la £ltima semana.,N (1),,
+33,alim17_11,N£mero de d¡as que comieron az£car o mieles durante la £ltima semana.,N (1),,
+34,alim17_12,"N£mero de d¡as que comieron otros alimentos como condimentos, caf‚, t‚ durante la £ltima semana.",N (1),,
+35,acc_alim18,Relaci¢n del consumo regular de alimentos con lo reportado durante la semana de entrevista.,C (1),,"{1,...,3}"
+,,,,1,Igual
+,,,,2,Mayor
+,,,,3,Menor
+36,telefono,Servicio de l¡nea telef¢nica en el hogar ya sea con instalaci¢n al mbrica o satelital (antena). ,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+37,celular,Hogares que cuentan con el servicio de tel‚fono m¢vil aunque sea un s¢lo integrante del hogar.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+38,tv_paga,"Hogares que cuentan con los servicios de televisi¢n por pago, considerando que el servicio est  en funcionamiento.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+39,conex_inte,"Hogares que cuentan con el servicio de l¡nea telef¢nica, tarjeta prepagada o telecable.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+40,num_auto,N£mero de autom¢viles con los que cuenta el hogar.,N (2),,
+41,anio_auto,A¤o de adquisici¢n del £ltimo autom¢vil.,C (2),,"{00,...,16,50,...,99}"
+42,num_van,N£mero de camionetas cerradas o con cabina (van o minivan) con las que cuenta el hogar.,N (2),,
+43,anio_van,A¤o de adquisici¢n de la £ltima camioneta cerrada o con cabina.,C (2),,"{00,...,16,50,...,99}"
+44,num_pickup,N£mero de camionetas con caja con las que cuenta el hogar.,N (2),,
+45,anio_pickup,A¤o de adquisici¢n de la £ltima camioneta de caja.,C (2),,"{00,...,16,50,...,99}"
+46,num_moto,N£mero de motocicletas o motonetas con las que cuenta el hogar.,N (2),,
+47,anio_moto,A¤o de adquisici¢n de la £ltima motocicleta o motoneta.,C (2),,"{00,...,16,50,...,99}"
+48,num_bici,N£mero de bicicletas que se utilicen como medio de transporte en el hogar.,N (2),,
+49,anio_bici,A¤o de adquisici¢n de la £ltima bicicleta.,C (2),,"{00,...,16,50,...,99}"
+50,num_trici,N£mero de triciclos que se utilicen como medio de transporte en el hogar.,N (2),,
+51,anio_trici,A¤o de adquisici¢n del £ltimo triciclo.,C (2),,"{00,...,16,50,...,99}"
+52,num_carret,"N£mero de carretas, calandrias u otros veh¡culos de tracci¢n animal con los que cuenta el hogar.",N (2),,
+53,anio_carret,A¤o de adquisici¢n de la £ltima carreta.,C (2),,"{00,...,16,50,...,99}"
+54,num_canoa,"N£mero de canoas, lanchas, trajineras u otros veh¡culos para navegar con los que cuenta el hogar.",N (2),,
+55,anio_canoa,"A¤o de adquisici¢n de la £ltima canoa, lancha, trajinera u otros veh¡culos para navegar.",C (2),,"{00,...,16,50,...,99}"
+56,num_otro,N£mero de otro tipo de veh¡culos con los que cuenta el hogar.,N (2),,
+57,anio_otro,A¤o de adquisici¢n del £ltimo veh¡culo de otro tipo.,C (2),,"{00,...,16,50,...,99}"
+58,num_ester,"N£mero de est‚reos, modulares o minicomponentes con los que cuenta el hogar.",N (2),,
+59,anio_ester,"A¤o de adquisici¢n del £ltimo est‚reo, modular, minicomponente.",C (2),,"{00,...,16,50,...,99}"
+60,num_grab,N£mero de grabadoras con las que cuenta el hogar.,N (2),,
+61,anio_grab,A¤o de adquisici¢n de la £ltima grabadora.,C (2),,"{00,...,16,50,...,99}"
+62,num_radio,N£mero de radios con las que cuenta el hogar.,N (2),,
+63,anio_radio,A¤o de adquisici¢n de la £ltima radio.,C (2),,"{00,...,16,50,...,99}"
+64,num_tva,N£mero de televisores anal¢gicos con los que cuenta el hogar.,N (2),,
+65,anio_tva,A¤o de adquisici¢n del £ltimo televisor anal¢gico.,C (2),,"{00,...,16,50,...,99}"
+66,num_tvd,N£mero de televisores digitales con los que cuenta el hogar.,N (2),,
+67,anio_tvd,A¤o de adquisici¢n del £ltimo televisor digital.,C (2),,"{00,...,16,50,...,99}"
+68,num_dvd,"N£mero de DVDs, Blu-ray (reproductores de discos de video) con los que cuenta el hogar.",N (2),,
+69,anio_dvd,"A¤o de adquisici¢n del £ltimo DVD, Blu-ray (reproductor de discos de video.",C (2),,"{00,...,16,50,...,99}"
+70,num_video,N£mero de videocaseteras con las que cuenta el hogar.,N (2),,
+71,anio_video,A¤o de adquisici¢n de la £ltima videocasetera.,C (2),,"{00,...,16,50,...,99}"
+72,num_licua,N£mero de licuadoras con las que cuenta el hogar.,N (2),,
+73,anio_licua,A¤o de adquisici¢n de la £ltima licuadora.,C (2),,"{00,...,16,50,...,99}"
+74,num_tosta,N£mero de tostadores con los que cuenta el hogar.,N (2),,
+75,anio_tosta,A¤o de adquisici¢n del £ltimo tostador el‚ctrico.,C (2),,"{00,...,16,50,...,99}"
+76,num_micro,N£mero de hornos de microondas con los que cuenta el hogar.,N (2),,
+77,anio_micro,A¤o de adquisici¢n del £ltimo horno de microondas.,C (2),,"{00,...,16,50,...,99}"
+78,num_refri,N£mero de refrigeradores con los que cuenta el hogar.,N (2),,
+79,anio_refri,A¤o de adquisici¢n del £ltimo refrigerador.,C (2),,"{00,...,16,50,...,99}"
+80,num_estuf,N£mero de estufas de gas o el‚ctricas con las que cuenta el hogar.,N (2),,
+81,anio_estuf,A¤o de adquisici¢n de la £ltima estufa de gas o el‚ctrica.,C (2),,"{00,...,16,50,...,99}"
+82,num_lavad,N£mero de lavadoras con las que cuenta el hogar.,N (2),,
+83,anio_lavad,A¤o de adquisici¢n de la £ltima lavadora.,C (2),,"{00,...,16,50,...,99}"
+84,num_planc,N£mero de planchas el‚ctricas con las que cuenta el hogar.,N (2),,
+85,anio_planc,A¤o de adquisici¢n de la £ltima plancha el‚ctrica.,C (2),,"{00,...,16,50,...,99}"
+86,num_maqui,N£mero de m quinas de coser con las que cuenta el hogar.,N (2),,
+87,anio_maqui,A¤o de adquisici¢n de la £ltima m quina de coser.,C (2),,"{00,...,16,50,...,99}"
+88,num_venti,N£mero de ventiladores con los que cuenta el hogar.,N (2),,
+89,anio_venti,A¤o de adquisici¢n del £ltimo ventilador.,C (2),,"{00,...,16,50,...,99}"
+90,num_aspir,N£mero de aspiradoras con las que cuenta el hogar.,N (2),,
+91,anio_aspir,A¤o de adquisici¢n de la £ltima aspiradora.,C (2),,"{00,...,16,50,...,99}"
+92,num_compu,N£mero de computadoras con las que cuenta el hogar.,N (2),,
+93,anio_compu,A¤o de adquisici¢n de la £ltima computadora.,C (2),,"{00,...,16,50,...,99}"
+94,num_impre,N£mero de impresoras con las que cuenta el hogar.,N (2),,
+95,anio_impre,A¤o de adquisici¢n de la £ltima impresora.,C (2),,"{00,...,16,50,...,99}"
+96,num_juego,"N£mero de videojuegos (Wii, Playstation, Xbox, otros) con los que cuenta el hogar.",N (2),,
+97,anio_juego,A¤o de adquisici¢n del £ltimo videojuego.,C (2),,"{00,...,16,50,...,99}"
+98,esc_radio,En su hogar escuchan la radio,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+99,er_aparato,Medio por el cual se escucha la radio,C (1),,{1}
+,,,,1,Aparato f¡sico
+100,er_celular,Medio por el cual se escucha la radio,C (1),,{2}
+,,,,2,Tel‚fono celular
+101,er_compu,Medio por el cual se escucha la radio,C (1),,{3}
+,,,,3,Computadora
+102,er_aplicac,Medio por el cual se escucha la radio,C (1),,{4}
+,,,,4,Aplicaci¢n
+103,er_tv,Medio por el cual se escucha la radio,C (1),,{5}
+,,,,5,Televisi¢n
+104,er_otro,Medio por el cual se escucha la radio,C (1),,{6}
+,,,,6,Otro
+105,recib_tvd,Recibi¢ televisor digital de parte del Gobierno Federal,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+106,tsalud1_h,N£mero de horas que tardar¡a en llegar a un hospital en una emergencia.,N (2),,
+107,tsalud1_m,N£mero de minutos que tardar¡a en llegar a un hospital en una emergencia.,N (2),,
+108,habito_1,Frecuencia con la que realiza las compras de alimentos y bebidas.,C (1),,{1}
+,,,,1,Cada mes
+109,habito_2,Frecuencia con la que realiza las compras de alimentos y bebidas.,C (1),,{2}
+,,,,2,Cada 15 d¡as
+110,habito_3,Frecuencia con la que realiza las compras de alimentos y bebidas.,C (1),,{3}
+,,,,3,Cada 8 d¡as
+111,habito_4,Frecuencia con la que realiza las compras de alimentos y bebidas.,C (1),,{4}
+,,,,4,Cada tercer d¡a
+112,habito_5,Frecuencia con la que realiza las compras de alimentos y bebidas.,C (1),,{5}
+,,,,5,Diariamente
+113,habito_6,Alg£n otro intervalo de frecuencia con que haga las compras.,C (1),,{6}
+,,,,6,Otros
+114,consumo,"Verificaci¢n del gasto que acostumbra realizar el hogar en alimentos y bebidas, para preparar el desayuno, la comida o la cena o para la despensa, en alguno de los d¡as de la semana de referencia.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+115,nr_viv,N£mero de rengl¢n de la persona que recibe una cuota por la vivienda como prestaci¢n en el trabajo.,C (2),,
+116,tarjeta,"Instrumento mediante el cual se puede adquirir art¡culos y servicios, ya que se dispone de un monto en dinero (cr‚dito) como una forma de financiamiento por parte de la instituci¢n, que es propiedad de alg£n integrante del hogar.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+117,pagotarjet,Utilizaci¢n en el periodo de referencia mensual de tarjeta de cr‚dito bancario propiedad de un integrante del hogar para la adquisici¢n de tabaco o alimentos y bebidas consumidos dentro o fuera del hogar.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+118,regalotar,Gasto en regalos a personas ajenas al hogar pagado con tarjeta de cr‚dito bancaria o comercial.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+119,regalodado,Gasto en regalos a personas ajenas al hogar.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+120,autocons,"Los alimentos, bebidas, servicios de alimentaci¢n y transporte p£blico que el hogar obtuvo de un negocio que es de su propiedad, durante la semana de referencia.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+121,regalos,"Estimaci¢n con base al valor en el mercado a precio de menudeo de los productos y servicios para su consumo final y privado, que fueron recibidos como regalo de personas que pertenecen a otro hogar.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+122,remunera,"Estimaci¢n realizada con base al valor en el mercado a precio de menudeo, de los productos y servicios de consumo final y privado que reciben los trabajadores subordinados.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+123,transferen,"Beneficio otorgado por organizaciones privadas o del gobierno para la ayuda de una poblaci¢n, individuo o familia con el fin de que ‚stos puedan disfrutar de ciertos art¡culos o servicios, esta ayuda consiste en que el organismo absorbe parte o el total del valor del bien o servicio.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+124,parto_g,"Gastos en servicios m‚dicos durante el parto proporcionado por personas profesionales o no, as¡ como los medicamentos recetados, an lisis cl¡nicos, etc‚tera.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+125,embarazo_g,"Gastos en servicios m‚dicos durante el embarazo proporcionado por personas profesionales o no, as¡ como los medicamentos recetados, an lisis cl¡nicos, etc‚tera.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+126,negcua,"Alg£n integrante de la familia cuenta con un negocio ya sea que se de dedique a procesar, vender o prestar un servicio.",C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+127,est_alim,"Estimaci¢n del gasto mensual en alimentos, bebidas y tabaco consumidos dentro y fuera de casa.",N (9),,
+128,est_trans,Estimaci¢n del gasto mensual en transporte p£blico.,N (9),,
+129,bene_licon,Beneficiario en el hogar del Programa de Abasto Social de Leche (Liconsa).,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+130,cond_licon,Compra condicionada por Liconsa.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+131,lts_licon,Estimaci¢n de los litros de leche que el hogar compra a la semana.,C (1),,"{1,...,7}"
+,,,,1,4 litros
+,,,,2,8 litros
+,,,,3,12 litros
+,,,,4,16 litros
+,,,,5,20 litros
+,,,,6,24 litros
+,,,,7,Otro
+132,otros_lts,Estimaci¢n de los litros de leche que el hogar compra a la semana.,N (2),,
+133,diconsa,Tienda de Diconsa en la colonia o localidad.,C (1),,"{1,2,9}"
+,,,,1,S¡
+,,,,2,No
+,,,,9,No sabe
+134,frec_dicon,Frecuencia de compra en tienda Diconsa.,C (1),,"{1,2,3}"
+,,,,1,Siempre
+,,,,2,A veces
+,,,,3,Nunca
+135,cond_dicon,Venta condicionada en tienda Diconsa.,C (1),,"{1,2}"
+,,,,1,S¡
+,,,,2,No
+136,pago_dicon,Cantidad pagada por alimentos en tienda Diconsa.,C (1),,"{1,...,5,7}"
+,,,,1,50 pesos
+,,,,2,100 pesos
+,,,,3,150 pesos
+,,,,4,200 pesos
+,,,,5,250 pesos
+,,,,7,Otro
+137,otro_pago,Otro pago por alimentos en tienda Diconsa.,N (3),,

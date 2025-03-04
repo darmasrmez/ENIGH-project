@@ -1,0 +1,515 @@
+Tabla  POBLACION,,,,,
+,,,,,
+#,Variable,DescripciΩn,Tipo,Categor≠as,
+,,,,valor,etiqueta o rango
+1,folioviv,"Identificador de la vivienda compuesto por dos d°gitos con la clave de la entidad federativa, uno con el †mbito (urbano, c¢digo diferente a 6; rural, c¢digo 6), cuatro d°gitos del n£mero consecutivo de la upm, un d°gito de la decena de levantamiento y dos d°gitos con un n£mero consecutivo para la vivienda seleccionada.",C (10),,
+2,foliohog,El c¢digo 1 identifica al hogar principal y del 2 al 5 los hogares adicionales.,C (1),,
+3,numren,N£mero consecutivo en el registro de personas integrantes del hogar.,C (2),,
+4,parentesco,"V°nculo o lazo de uni¢n que existe entre el jefe(a) y los integrantes del hogar, ya sea conyugal, por consanguinidad, adopci¢n, afinidad o costumbre.",C (3),,Cat†logo de parentesco
+5,sexo,Distinci¢n biol¢gica que clasifica a las personas en hombres o mujeres.,C (1),,"{1,2}"
+,,,,1,Hombre
+,,,,2,Mujer
+6,edad,A§os transcurridos entre la fecha de nacimiento de la persona y la fecha de la entrevista.,N (3),,
+7,madre_hog,Identifican a la madre de las personas del hogar.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+8,madre_id,N£mero de rengl¢n correspondiente a la madre.,C (2),,
+9,padre_hog,Identifican al padre de las personas del hogar .,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+10,padre_id,N£mero de rengl¢n correspondiente al padre.,C (2),,
+11,disc1,"Discapacidad que presenta alg£n integrante del hogar (limitaci¢n para moverse, caminar, usar sus brazos o piernas, persona ciega, sorda o muda, retraso o deficiencia mental).",C (1),,"{1,...,8}"
+,,,,1,"Caminar, moverse, subir o bajar"
+,,,,2,"Ver, aun usando lentes"
+,,,,3,"Hablar, comunicarse o conversar"
+,,,,4,"O°r, aun usando aparato auditivo"
+,,,,5,"Vestirse, ba§arse o comer"
+,,,,6,Poner atenci¢n o aprender cosas sencillas
+,,,,7,Tiene alguna limitaci¢n mental
+,,,,8,No tiene dificulta f°sica o mental
+12,disc2,"Discapacidad que presenta alg£n integrante del hogar (limitaci¢n para moverse, caminar, usar sus brazos o piernas, persona ciega, sorda o muda, retraso o deficiencia mental).",C (1),,"{2,...,7}"
+,,,,2,"Ver, aun usando lentes"
+,,,,3,"Hablar, comunicarse o conversar"
+,,,,4,"O°r, aun usando aparato auditivo"
+,,,,5,"Vestirse, ba§arse o comer"
+,,,,6,Poner atenci¢n o aprender cosas sencillas
+,,,,7,Tiene alguna limitaci¢n mental
+13,disc3,"Discapacidad que presenta alg£n integrante del hogar (limitaci¢n para moverse, caminar, usar sus brazos o piernas, persona ciega, sorda o muda, retraso o deficiencia mental).",C (1),,"{3,...,7}"
+,,,,3,"Hablar, comunicarse o conversar"
+,,,,4,"O°r, aun usando aparato auditivo"
+,,,,5,"Vestirse, ba§arse o comer"
+,,,,6,Poner atenci¢n o aprender cosas sencillas
+,,,,7,Tiene alguna limitaci¢n mental
+14,disc4,"Discapacidad que presenta alg£n integrante del hogar (limitaci¢n para moverse, caminar, usar sus brazos o piernas, persona ciega, sorda o muda, retraso o deficiencia mental).",C (1),,"{4,...,7}"
+,,,,4,"O°r, aun usando aparato auditivo"
+,,,,5,"Vestirse, ba§arse o comer"
+,,,,6,Poner atenci¢n o aprender cosas sencillas
+,,,,7,Tiene alguna limitaci¢n mental
+15,disc5,"Discapacidad que presenta alg£n integrante del hogar (limitaci¢n para moverse, caminar, usar sus brazos o piernas, persona ciega, sorda o muda, retraso o deficiencia mental).",C (1),,"{5,...,7}"
+,,,,5,"Vestirse, ba§arse o comer"
+,,,,6,Poner atenci¢n o aprender cosas sencillas
+,,,,7,Tiene alguna limitaci¢n mental
+16,disc6,"Discapacidad que presenta alg£n integrante del hogar (limitaci¢n para moverse, caminar, usar sus brazos o piernas, persona ciega, sorda o muda, retraso o deficiencia mental).",C (1),,"{6,7}"
+,,,,6,Poner atenci¢n o aprender cosas sencillas
+,,,,7,Tiene alguna limitaci¢n mental
+17,disc7,"Discapacidad que presenta alg£n integrante del hogar (limitaci¢n para moverse, caminar, usar sus brazos o piernas, persona ciega, sorda o muda, retraso o deficiencia mental).",C (1),,{7}
+,,,,7,Tiene alguna limitaci¢n mental
+18,causa1,Causa de la discapacidad presente en alg£n integrante del hogar.,C (1),,"{1,...,5}"
+,,,,1,Porque naci¢ as°
+,,,,2,Por una enfermedad
+,,,,3,Por un accidente
+,,,,4,Por edad avanzada
+,,,,5,Por otra causa
+19,causa2,Causa de la discapacidad presente en alg£n integrante del hogar.,C (1),,"{1,...,5}"
+,,,,1,Porque naci¢ as°
+,,,,2,Por una enfermedad
+,,,,3,Por un accidente
+,,,,4,Por edad avanzada
+,,,,5,Por otra causa
+20,causa3,Causa de la discapacidad presente en alg£n integrante del hogar.,C (1),,"{1,...,5}"
+,,,,1,Porque naci¢ as°
+,,,,2,Por una enfermedad
+,,,,3,Por un accidente
+,,,,4,Por edad avanzada
+,,,,5,Por otra causa
+21,causa4,Causa de la discapacidad presente en alg£n integrante del hogar.,C (1),,"{1,...,5}"
+,,,,1,Porque naci¢ as°
+,,,,2,Por una enfermedad
+,,,,3,Por un accidente
+,,,,4,Por edad avanzada
+,,,,5,Por otra causa
+22,causa5,Causa de la discapacidad presente en alg£n integrante del hogar.,C (1),,"{1,...,5}"
+,,,,1,Porque naci¢ as°
+,,,,2,Por una enfermedad
+,,,,3,Por un accidente
+,,,,4,Por edad avanzada
+,,,,5,Por otra causa
+23,causa6,Causa de la discapacidad presente en alg£n integrante del hogar.,C (1),,"{1,...,5}"
+,,,,1,Porque naci¢ as°
+,,,,2,Por una enfermedad
+,,,,3,Por un accidente
+,,,,4,Por edad avanzada
+,,,,5,Por otra causa
+24,causa7,Causa de la discapacidad presente en alg£n integrante del hogar.,C (1),,"{1,...,5}"
+,,,,1,Porque naci¢ as°
+,,,,2,Por una enfermedad
+,,,,3,Por un accidente
+,,,,4,Por edad avanzada
+,,,,5,Por otra causa
+25,hablaind,Personas de 3 a§os o m†s que hablan alguna lengua ind°gena o dialecto.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+26,lenguaind,"Lengua ind°gena o dialecto que hablan los residentes de la vivienda de 3 a§os o m†s. êstas corresponden a la Clasificaci¢n de lenguas ind°genas 2010, que est† disponible en el sitio del INEGI.",C (4),,Cat†logo de lengua ind°gena
+27,hablaesp,Personas de 3 a§os o m†s que hablan alguna lengua ind°gena o dialecto tambiÇn hablan el espa§ol.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+28,comprenind,Personas de 3 a§os o m†s entienden alguna lengua ind°gena.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+29,etnia,Personas de 3 a§os o m†s de acuerdo con su cultura se consideran ind°genas.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+30,alfabetism,Situaci¢n que distingue a las personas de 3 o m†s a§os seg£n sepan leer y escribir un recado.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+31,asis_esc,"Situaci¢n que distingue a las personas de 3 o m†s a§os seg£n asistan o no a alg£n establecimiento de ense§anza escolar del Sistema Educativo Nacional (SEN), en cualquier nivel.",C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+32,nivel,Nivel al que asiste a la escuela el integrante del hogar de 3 o m†s a§os dentro del Sistema Educativo Nacional.,C (1),,"{01,...,13}"
+,,,,1,Preescolar
+,,,,2,Estancias infantiles
+,,,,3,"Guarder°as p£blicas (IMSS, ISSSTE, SEDENA, SEMAR, PEMEX)"
+,,,,4,Centro de Desarrollo Infantil (CENDI) o Centro Asistencial de Desarrollo Infantil (CADI)
+,,,,5,Otras guarder°as
+,,,,6,Primaria
+,,,,7,Secundaria
+,,,,8,Carrera tÇcnica con secundaria terminada
+,,,,9,Preparatoria o bachillerato
+,,,,10,Carrera tÇcnica con preparatoria terminada
+,,,,11,Normal
+,,,,12,Profesional
+,,,,13,Maestr°a o doctorado
+33,grado,Grado al que asiste a la escuela el integrante del hogar de 3 o m†s a§os dentro del Sistema Educativo Nacional.,C (1),,"{1,...,6}"
+,,,,1,Primer a§o
+,,,,2,Segundo a§o
+,,,,3,Tercer a§o
+,,,,4,Cuarto a§o
+,,,,5,Quinto a§o
+,,,,6,Sexto a§o
+34,tipoesc,"Tipo de escuela a la que asiste el integrante del hogar de 3 o m†s a§os dentro del Sistema Educativo Nacional seg£n sea p£blica, privada o de otro tipo.",C (1),,"{1,...,3}"
+,,,,1,P£blica o de gobierno
+,,,,2,Privada o de paga
+,,,,3,De otro tipo
+35,tiene_b,Apoyo en dinero o especie que se proporciona a los integrantes del hogar que asisten a la escuela.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+36,otorg_b,Instituci¢n u organismo que otorg¢ la beca escolar.,C (1),,"{1,...,5}"
+,,,,1,El programa PROSPERA
+,,,,2,Su escuela p£blica o de gobierno
+,,,,3,Su escuela privada o de paga
+,,,,4,Un organismo de gobierno
+,,,,5,Una instituci¢n privada
+37,forma_b,Forma en la que se recibi¢ la beca escolar.,C (1),,"{1,...,5}"
+,,,,1,S¢lo en dinero
+,,,,2,S¢lo en art°culos
+,,,,3,En dinero y en art°culos
+,,,,4,No paga colegiatura
+,,,,5,S¢lo paga parte de la colegiatura
+38,tiene_c,"Aportaci¢n que recibe el integrante del hogar que asiste a la escuela para el pago de colegiatura, hospedaje, alimentaci¢n, materiales, etcÇtera. Quien lo recibe est† comprometido a pagarlo en parte o en su totalidad al concluir sus estudios.",C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+39,otorg_c,Instituci¢n u organismo que otorg¢ el crÇdito educativo.,C (1),,"{1,...,4}"
+,,,,1,Su escuela p£blica o de gobierno
+,,,,2,Su escuela privada o de paga
+,,,,3,Un organismo de gobierno
+,,,,4,Una instituci¢n privada
+40,forma_c,Forma en la que se recibi¢ el crÇdito educativo.,C (1),,"{1,...,3}"
+,,,,1,S¢lo en dinero
+,,,,2,No paga colegiatura
+,,,,3,S¢lo paga parte de la colegiatura
+41,nivelaprob,"A§o m†ximo aprobado en la escuela, por el integrante del hogar de 3 o m†s a§os dentro del Sistema Educativo Nacional.",C (1),,"{0,...,9}"
+,,,,0,Ninguno
+,,,,1,Preescolar
+,,,,2,Primaria
+,,,,3,Secundaria
+,,,,4,Preparatoria o bachillerato
+,,,,5,Normal
+,,,,6,Carrera tÇcnica o comercial
+,,,,7,Profesional
+,,,,8,Maestr°a
+,,,,9,Doctorado
+42,gradoaprob,"Grado m†ximo aprobado en la escuela, por el integrante del hogar de 3 o m†s a§os dentro del Sistema Educativo Nacional.",C (1),,"{0,...,6}"
+,,,,0,Ninguno
+,,,,1,Primer a§o
+,,,,2,Segundo a§o
+,,,,3,Tercer a§o
+,,,,4,Cuarto a§o
+,,,,5,Quinto a§o
+,,,,6,Sexto a§o
+43,antec_esc,"Antecedente escolar que se pide al integrante del hogar, para cursar sus estudios (a partir de Normal), dentro del Sistema Educativo Nacional.",C (1),,"{1,...,5}"
+,,,,1,Primaria
+,,,,2,Secundaria
+,,,,3,Preparatoria o bachillerato
+,,,,4,Licenciatura o profesional
+,,,,5,Maestr°a
+44,residencia,"Entidad o pa°s de residencia del integrante del hogar, 5 a§os antes del momento de la entrevista.",C (2),,Cat†logo de residencia
+45,edo_conyug,Estado conyugal del integrante del hogar de 12 o m†s a§os.,C (1),,"{1,...,6}"
+,,,,1,Vive con su pareja o en uni¢n libre
+,,,,2,Est† casado(a)
+,,,,3,Est† separado(a)
+,,,,4,Est† divorciado(a)
+,,,,5,Es viudo(a)
+,,,,6,Est† soltero(a)
+46,pareja_hog,C¢nyuge del integrante del hogar de 12 o m†s a§os.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+47,conyuge_id,N£mero de rengl¢n del c¢nyuge del integrante del hogar de 12 o m†s a§os.,C (2),,"{01,...,50}"
+48,segsoc,Todas las aportaciones monetarias realizadas por los integrantes del hogar a las instituciones de seguridad social a lo largo de su vida productiva a fin de gozar de los beneficios de esta. Pueden ser instituciones nacionales y/o extranjeras.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+49,ss_aa,N£mero de a§os de contribuci¢n a la seguridad social.,N (2),,
+50,ss_mm,N£mero de meses de contribuci¢n a la seguridad social.,N (2),,
+51,redsoc_1,El nivel de dificultad o facilidad con que las personas podr°an conseguir prestada la cantidad de dinero que ingresa al hogar en un mes.,C (1),,"{1,...,5}"
+,,,,1,Imposible conseguirla
+,,,,2,Dif°cil conseguirla
+,,,,3,F†cil conseguirla
+,,,,4,Muy f†cil conseguirla
+,,,,5,Ni f†cil ni dif°cil conseguirla (espont†nea)
+52,redsoc_2,El nivel de dificultad o facilidad con que las personas podr°an conseguir ayuda para que lo(a) cuiden en una enfermedad.,C (1),,"{1,...,5}"
+,,,,1,Imposible conseguirla
+,,,,2,Dif°cil conseguirla
+,,,,3,F†cil conseguirla
+,,,,4,Muy f†cil conseguirla
+,,,,5,Ni f†cil ni dif°cil conseguirla (espont†nea)
+53,redsoc_3,El nivel de dificultad o facilidad con que las personas podr°an conseguir ayuda para conseguir un trabajo.,C (1),,"{1,...,5}"
+,,,,1,Imposible conseguirla
+,,,,2,Dif°cil conseguirla
+,,,,3,F†cil conseguirla
+,,,,4,Muy f†cil conseguirla
+,,,,5,Ni f†cil ni dif°cil conseguirla (espont†nea)
+54,redsoc_4,El nivel de dificultad o facilidad con que las personas podr°an conseguir ayuda para que lo(a) acompa§en al doctor.,C (1),,"{1,...,5}"
+,,,,1,Imposible conseguirla
+,,,,2,Dif°cil conseguirla
+,,,,3,F†cil conseguirla
+,,,,4,Muy f†cil conseguirla
+,,,,5,Ni f†cil ni dif°cil conseguirla (espont†nea)
+55,redsoc_5,El nivel de dificultad o facilidad con que las personas podr°an conseguir cooperaci¢n para realizar mejoras en su colonia o localidad.,C (1),,"{1,...,5}"
+,,,,1,Imposible conseguirla
+,,,,2,Dif°cil conseguirla
+,,,,3,F†cil conseguirla
+,,,,4,Muy f†cil conseguirla
+,,,,5,Ni f†cil ni dif°cil conseguirla (espont†nea)
+56,redsoc_6,El nivel de dificultad o facilidad con que las personas podr°an conseguir ayuda para que cuiden a los(as) ni§os(as) en este hogar.,C (1),,"{1,...,5}"
+,,,,1,Imposible conseguirla
+,,,,2,Dif°cil conseguirla
+,,,,3,F†cil conseguirla
+,,,,4,Muy f†cil conseguirla
+,,,,5,Ni f†cil ni dif°cil conseguirla (espont†nea)
+57,hor_1,"El tiempo, en horas, que las personas dedicaron a trabajar.",N (3),,
+58,min_1,"El tiempo, en minutos, que las personas dedicaron a trabajar.",N (2),,
+59,usotiempo1,No recuerda haber trabajado.,C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+60,hor_2,"El tiempo, en horas, que las personas dedicaron a estudiar y hacer actividades relacionadas con el estudio.",N (3),,
+61,min_2,"El tiempo, en minutos, que las personas dedicaron a estudiar y hacer actividades relacionadas con el estudio.",N (2),,
+62,usotiempo2,No recuerda haber dedicado tiempo para estudiar.,C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+63,hor_3,"El tiempo, en horas, que las personas dedicaron a realizar trabajo comunitario o voluntario.",N (2),,
+64,min_3,"El tiempo, en minutos, que las personas dedicaron a realizar trabajo comunitario o voluntario.",N (2),,
+65,usotiempo3,No recuerda haber dedicado tiempo para realizar trabajo comunitario o voluntario.,C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+66,hor_4,"El tiempo, en horas, que las personas dedicaron a cuidar, atender sin pago y de manera exclusiva a ni§os, ancianos, enfermos, discapacitados.",N (2),,
+67,min_4,"El tiempo, en minutos, que las personas dedicaron a cuidar, atender sin pago y de manera exclusiva a ni§os, ancianos, enfermos, discapacitados.",N (2),,
+68,usotiempo4,"No recuerda haber dedicado tiempo para cuidar, atender sin pago y de manera exclusiva a ni§os, ancianos, enfermos, discapacitados.",C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+69,hor_5,"El tiempo, en horas, que las personas dedicaron a reparar o dar mantenimiento a su vivienda, muebles, aparatos domÇsticos o veh°culos",N (2),,
+70,min_5,"El tiempo, en minutos, que las personas dedicaron a reparar o dar mantenimiento a su vivienda, muebles, aparatos domÇsticos o veh°culos.",N (2),,
+71,usotiempo5,"No recuerda haber dedicado tiempo a reparar o dar mantenimiento a su vivienda, muebles, aparatos domÇsticos o veh°culos.",C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+72,hor_6,"El tiempo, en horas, que las personas dedicaron a los quehaceres del hogar.",N (2),,
+73,min_6,"El tiempo, en minutos, que las personas dedicaron a los quehaceres del hogar.",N (2),,
+74,usotiempo6,No recuerda haber dedicado tiempo a quehaceres del hogar.,C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+75,hor_7,"El tiempo, en horas, que las personas dedicaron a acarrear agua o le§a.",N (2),,
+76,min_7,"El tiempo, en minutos, que las personas dedicaron a acarrear agua o le§a.",N (2),,
+77,usotiempo7,No recuerda haber dedicado tiempo para acarrear agua o le§a.,C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+78,hor_8,"El tiempo, en horas, que las personas dedicaron a realizar actividades de su gusto.",N (2),,
+79,min_8,"El tiempo, en minutos, que las personas dedicaron a realizar actividades de su gusto.",N (2),,
+80,usotiempo8,No recuerda haber dedicado tiempo para realizar actividades de su gusto.,C (1),,"{8,9}"
+,,,,8,No recuerda
+,,,,9,No lo hizo
+81,segpop,Personas est†n o no afiliadas o inscritas a alguna instituci¢n que proporciona atenci¢n mÇdica.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+82,atemed,Personas est†n o no afiliadas o inscritas a alguna instituci¢n que proporciona atenci¢n mÇdica.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+83,inst_1,Instituci¢n que proporciona servicios de salud a la que est† afiliada o inscrita las personas del hogar.,C (1),,{1}
+,,,,1,En el IMSS
+84,inst_2,Instituci¢n que proporciona servicios de salud a la que est† afiliada o inscrita las personas del hogar.,C (1),,{2}
+,,,,2,En el ISSSTE
+85,inst_3,Instituci¢n que proporciona servicios de salud a la que est† afiliada o inscrita las personas del hogar.,C (1),,{3}
+,,,,3,En el ISSSTE estatal
+86,inst_4,Instituci¢n que proporciona servicios de salud a la que est† afiliada o inscrita las personas del hogar.,C (1),,{4}
+,,,,4,"Por PEMEX, la Defensa o la Marina"
+87,inst_5,Instituci¢n que proporciona servicios de salud a la que est† afiliada o inscrita las personas del hogar.,C (1),,{5}
+,,,,5,IMSS-Prospera
+88,inst_6,Instituci¢n que proporciona servicios de salud a la que est† afiliada o inscrita las personas del hogar.,C (1),,{6}
+,,,,6,Otro
+89,inscr_1,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{1}
+,,,,1,Prestaci¢n en el trabajo
+90,inscr_2,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{2}
+,,,,2,Jubilaci¢n o invalidez
+91,inscr_3,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{3}
+,,,,3,Alg£n familiar en el hogar
+92,inscr_4,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{4}
+,,,,4,Muerte del asegurado
+93,inscr_5,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{5}
+,,,,5,Ser estudiante
+94,inscr_6,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{6}
+,,,,6,Contrataci¢n propia
+95,inscr_7,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{7}
+,,,,7,Alg£n familiar de otro hogar
+96,inscr_8,Origen de la afiliaci¢n o inscripci¢n de las personas a las instituciones de salud o que les otorgan alguna pensi¢n.,C (1),,{8}
+,,,,8,No sabe
+97,prob_anio,Fecha de la £ltima vez que tuvo problemas de salud.,C (4),,
+98,prob_mes,Fecha de la £ltima vez que tuvo problemas de salud.,C (2),,"{01,...,12}"
+,,,,1,Enero
+,,,,2,Febrero
+,,,,3,Marzo
+,,,,4,Abril
+,,,,5,Mayo
+,,,,6,Junio
+,,,,7,Julio
+,,,,8,Agosto
+,,,,9,Septiembre
+,,,,10,Octubre
+,,,,11,Noviembre
+,,,,12,Diciembre
+99,prob_sal,Personas que han tenido alg£n problema de salud que les haya impedido realizar sus actividades diarias.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+100,aten_sal,Personas que han tenido alg£n problema de salud que les haya impedido realizar sus actividades diarias.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+101,servmed_1,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{01}
+,,,,1,Centros de salud (Secretar°a de Salud)
+102,servmed_2,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{02}
+,,,,2,Hospital o instituto (Secretar°a de Salud)
+103,servmed_3,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{03}
+,,,,3,Seguro Social o IMSS
+104,servmed_4,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{04}
+,,,,4,IMSS-PROSPERA
+105,servmed_5,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{05}
+,,,,5,ISSSTE
+106,servmed_6,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{06}
+,,,,6,ISSSTE estatal
+107,servmed_7,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{07}
+,,,,7,"Otro servicio mÇdico p£blico (PEMEX, Defensa, Marina, DIF, INI, GDF)"
+108,servmed_8,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{08}
+,,,,8,Consultorios y hospitales privados
+109,servmed_9,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{09}
+,,,,9,Consultorio de farmacias
+110,servmed_10,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{10}
+,,,,10,"Curandero, hierbero, comadrona, brujo, etcÇtera"
+111,servmed_11,Lugar de atenci¢n que frecuentan las personas para recibir atenci¢n mÇdica.,C (2),,{11}
+,,,,11,Otro
+112,hh_lug,Tiempo de traslado a recibir atenci¢n mÇdica.,N (2),,
+113,mm_lug,Tiempo de traslado a recibir atenci¢n mÇdica.,N (2),,
+114,hh_esp,Tiempo de espera en recibir atenci¢n mÇdica.,N (2),,
+115,mm_esp,Tiempo de espera en recibir atenci¢n mÇdica.,N (2),,
+116,pagoaten_1,Pago de atenci¢n mÇdica.,C (1),,{1}
+,,,,1,Consulta
+117,pagoaten_2,Pago de atenci¢n mÇdica.,C (1),,{2}
+,,,,2,Medicamentos
+118,pagoaten_3,Pago de atenci¢n mÇdica.,C (1),,{3}
+,,,,3,Estudios de laboratorio
+119,pagoaten_4,Pago de atenci¢n mÇdica.,C (1),,{4}
+,,,,4,Hospitalizaci¢n
+120,pagoaten_5,Pago de atenci¢n mÇdica.,C (1),,{5}
+,,,,5,Instrumental mÇdico
+121,pagoaten_6,Pago de atenci¢n mÇdica.,C (1),,{6}
+,,,,6,Otro
+122,pagoaten_7,Pago de atenci¢n mÇdica.,C (1),,{7}
+,,,,7,No pag¢ nada
+123,noatenc_1,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{01}
+,,,,1,No hay donde atenderse
+124,noatenc_2,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{02}
+,,,,2,No ten°a dinero
+125,noatenc_3,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{03}
+,,,,3,La cl°nica u hospital queda lejos
+126,noatenc_4,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{04}
+,,,,4,No lo(la) atienden aunque vaya a la unidad mÇdica
+127,noatenc_5,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{05}
+,,,,5,No le tiene confianza al personal de la unidad mÇdica
+128,noatenc_6,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{06}
+,,,,6,Lo(la) trataron mal donde se atiende
+129,noatenc_7,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{07}
+,,,,7,No hablan la misma lengua que usted
+130,noatenc_8,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{08}
+,,,,8,Hay que esperar mucho para ser atendido(a)
+131,noatenc_9,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{09}
+,,,,9,No le dan el medicamento que necesita
+132,noatenc_10,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{10}
+,,,,10,La unidad mÇdica no estaba abierta
+133,noatenc_11,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{11}
+,,,,11,No hab°a mÇdico en la unidad
+134,noatenc_12,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{12}
+,,,,12,Se lo impidi¢ un integrante del hogar
+135,noatenc_13,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{13}
+,,,,13,No tuvo tiempo
+136,noatenc_14,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{14}
+,,,,14,No hubo quiÇn lo llevara
+137,noatenc_15,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{15}
+,,,,15,No quiso o no era necesario
+138,noatenc_16,Motivo por el cual la gente no se atiende cuando lo requiere.,C (2),,{16}
+,,,,16,Se automedic¢ o autorecet¢
+139,norecib_1,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{01}
+,,,,1,Centros de salud (Secretar°a de Salud)
+140,norecib_2,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{02}
+,,,,2,Hospital o instituto (Secretar°a de Salud)
+141,norecib_3,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{03}
+,,,,3,Seguro Social o IMSS
+142,norecib_4,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{04}
+,,,,4,IMSS-PROSPERA
+143,norecib_5,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{05}
+,,,,5,ISSSTE
+144,norecib_6,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{06}
+,,,,6,ISSSTE estatal
+145,norecib_7,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{07}
+,,,,7,"Otro servicio mÇdico p£blico (PEMEX, Defensa, Marina, DIF, INI, GDF)"
+146,norecib_8,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{08}
+,,,,8,Consultorios y hospitales privados
+147,norecib_9,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{09}
+,,,,9,Consultorio de farmacias
+148,norecib_10,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{10}
+,,,,10,"Curandero, hierbero, comadrona, brujo, etcÇtera"
+149,norecib_11,Instituci¢n en la que busc¢ atenci¢n y no la recibi¢.,C (2),,{11}
+,,,,11,Otro
+150,razon_1,Motivo por el cual no lo atendieron.,C (2),,{01}
+,,,,1,No ten°a dinero
+151,razon_2,Motivo por el cual no lo atendieron.,C (2),,{02}
+,,,,2,No entend°a su lengua
+152,razon_3,Motivo por el cual no lo atendieron.,C (2),,{03}
+,,,,3,No quisieron
+153,razon_4,Motivo por el cual no lo atendieron.,C (2),,{04}
+,,,,4,Dijeron que no era necesario
+154,razon_5,Motivo por el cual no lo atendieron.,C (2),,{05}
+,,,,5,No ten°an tiempo
+155,razon_6,Motivo por el cual no lo atendieron.,C (2),,{06}
+,,,,6,La unidad mÇdica estaba cerrada
+156,razon_7,Motivo por el cual no lo atendieron.,C (2),,{07}
+,,,,7,Le dieron cita hasta mucho tiempo despuÇs
+157,razon_8,Motivo por el cual no lo atendieron.,C (2),,{08}
+,,,,8,No hab°a mÇdico en la unidad
+158,razon_9,Motivo por el cual no lo atendieron.,C (2),,{09}
+,,,,9,No le dieron ninguna raz¢n
+159,razon_10,Motivo por el cual no lo atendieron.,C (2),,{10}
+,,,,10,El personal de la unidad le dijo que no era necesario que se atendiera
+160,razon_11,Motivo por el cual no lo atendieron.,C (2),,{11}
+,,,,11,Otro
+161,diabetes,Las personas que han tenido acceso a servicios mÇdicos preventivos asociados a la diabetes.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+162,pres_alta,Las personas que han tenido acceso a servicios mÇdicos preventivos asociados a problemas cardiacos.,C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+163,peso,"Las personas que est†n siendo pesadas y medidas con objetivos de control mÇdico, de cuidado de la salud o de vigilancia del desarrollo de la persona.",C (1),,"{1,2}"
+,,,,1,S°
+,,,,2,No
+164,segvol_1,Tipo de seguro que el integrante del hogar ha contratado voluntariamente.,C (1),,{1}
+,,,,1,"SAR, AFORE o fondo de pensiones"
+165,segvol_2,Tipo de seguro que el integrante del hogar ha contratado voluntariamente.,C (1),,{2}
+,,,,2,Seguro privado de gastos mÇdicos
+166,segvol_3,Tipo de seguro que el integrante del hogar ha contratado voluntariamente.,C (1),,{3}
+,,,,3,Seguro de vida
+167,segvol_4,Tipo de seguro que el integrante del hogar ha contratado voluntariamente.,C (1),,{4}
+,,,,4,Seguro de invalidez
+168,segvol_5,Tipo de seguro que el integrante del hogar ha contratado voluntariamente.,C (1),,{5}
+,,,,5,Otro tipo de seguro
+169,segvol_6,Tipo de seguro que el integrante del hogar ha contratado voluntariamente.,C (1),,{6}
+,,,,6,Ninguno de los anteriores
+170,segvol_7,Tipo de seguro que el integrante del hogar ha contratado voluntariamente.,C (1),,{7}
+,,,,7,No sabe
+171,hijos_viv,"Producto del embarazo que al momento de su extracci¢n o expulsi¢n dio alguna se§al de vida, tal como movimiento, latido del coraz¢n, llanto o respiro, aunque despuÇs haya muerto.",N (2),,
+172,hijos_mue,Hijos(as) nacidos muertos que ha tenido la integrante del hogar de 12 a§os o m†s.,N (2),,
+173,hijos_sob,"Hijos sobrevivientes que tiene la integrante del hogar de 12 a§os o m†s, independientemente de donde residan.",N (2),,
+174,trabajo_mp,"Es la situaci¢n que distingue a la poblaci¢n de 12 o m†s a§os de acuerdo con el desempe§o o no de una actividad econ¢mica en el periodo de referencia, que permite clasificarla como parte de la Poblaci¢n Econ¢micamente Activa (PEA) o como parte de la Poblaci¢n No Econ¢micamente Activa (PNEA).",C (1),,"{1,2}"
+,,,,1,Trabaj¢ el mes pasado
+,,,,2,No trabaj¢ el mes pasado
+175,motivo_aus,"Motivo de ausencia, por el cual, el integrante del hogar no trabaj¢ el mes pasado.",C (2),,"{01,...,13}"
+,,,,1,Huelga o paro laboral
+,,,,2,Paro tÇcnico
+,,,,3,Suspensi¢n temporal de sus funciones
+,,,,4,Asistencia a cursos de capacitaci¢n
+,,,,5,Vacaciones
+,,,,6,"Permiso, enfermedad o arreglo de asuntos personales"
+,,,,7,Falta de veh°culo o descompostura de m†quina
+,,,,8,"Falta de materias primas, financiamiento o clientes"
+,,,,9,Mal tiempo o fen¢meno natural
+,,,,10,TÇrmino de temporada de trabajo o cultivo
+,,,,11,Comenzar† un trabajo o negocio nuevo
+,,,,12,Otra raz¢n
+,,,,13,Ninguna de las anteriores
+176,act_pnea1,Actividad o situaci¢n de las personas no econ¢micamente activas. ,C (1),,"{1,...,6}"
+,,,,1,Estuvo buscando trabajo
+,,,,2,Es pensionado o jubilado
+,,,,3,Se dedic¢ a los quehaceres del hogar
+,,,,4,Se dedic¢ a estudiar
+,,,,5,Es una persona con alguna limitaci¢n f°sica o mental que le impide trabajar por el resto de su vida
+,,,,6,Est† en otra situaci¢n diferente a las anteriores
+177,act_pnea2,Actividad o situaci¢n de las personas no econ¢micamente activas. ,C (1),,"{2,...,5}"
+,,,,2,Es pensionado o jubilado
+,,,,3,Se dedic¢ a los quehaceres del hogar
+,,,,4,Se dedic¢ a estudiar
+,,,,5,Es una persona con alguna limitaci¢n f°sica o mental que le impide trabajar por el resto de su vida
+178,num_trabaj,N£mero de trabajos que los integrantes del hogar realizaron durante el mes pasado.,C (1),,"{1,2}"
+,,,,1,S¢lo 1
+,,,,2,Dos o m†s

@@ -1,0 +1,178 @@
+Tabla  TRABAJOS,,,,,
+,,,,,
+#,Variable,Descripción,Tipo,Categorías,
+,,,,valor,etiqueta o rango
+1,folioviv,"Identificador de la vivienda compuesto por dos dígitos con la clave de la entidad federativa, uno con el ámbito (urbano, código diferente a 6; rural, código 6), cuatro dígitos del número consecutivo de la upm, un dígito de la decena de levantamiento y dos dígitos con un número consecutivo para la vivienda seleccionada.",C (10),,
+2,foliohog,El código 1 identifica al hogar principal y del 2 al 5 los hogares adicionales.,C (1),,
+3,numren,Número consecutivo en el registro de personas integrantes del hogar.,C (2),,
+4,id_trabajo,Identificador del trabajo.,C (1),,"{1,2}"
+,,,,1,Trabajo principal
+,,,,2,Trabajo secundario
+5,trapais,El trabajo que tuvo fue dentro del país.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+6,subor,En el trabajo que tuvo fue subordinado.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+7,indep,El trabajo que tuvo fue por su cuenta.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+8,personal,En el trabajo que tuvo tenia empleados a su cargo.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+9,pago,Como le pagaban en el trabajo que tuvo.,C (1),,"{1,...,3}"
+,,,,1,Recibe un pago
+,,,,2,Es un trabajador(a) sin pago en un negocio del hogar
+,,,,3,Es un trabajador(a) sin pago en un negocio que no es del hogar
+10,contrato,Existencia de un contrato laboral por escrito.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+11,tipocontr,Forma en que fue contratado en el trabajo que tuvo.,C (1),,"{1,2}"
+,,,,1,Es temporal o por obra determinada
+,,,,2,"Es de base, planta o por tiempo Indeterminado"
+12,pres_1,"En el trabajo que tuvo le dieron la prestación de incapacidad en caso de enfermedad, accidente o maternidad.",C (2),,{01}
+,,,,1,Servicios médicos del seguro social IMSS
+13,pres_2,En el trabajo que tuvo le dieron la prestación de aguinaldo.,C (2),,{02}
+,,,,2,Servicios médicos del ISSSTE
+14,pres_3,En el trabajo que tuvo le dieron la prestación de vacaciones con goce de sueldo.,C (2),,{03}
+,,,,3,Servicios médicos del ISSSTE estatal
+15,pres_4,En el trabajo que tuvo le dieron la prestación de reparto de utilidades.,C (2),,{04}
+,,,,4,"Servicios médicos de PEMEX, del ejército o de la marina"
+16,pres_5,En el trabajo que tuvo le dieron la prestación de crédito de vivienda.,C (2),,{05}
+,,,,5,Servicios médicos de universidades
+17,pres_6,En el trabajo que tuvo le dieron la prestación de guarderías y estancias infantiles.,C (2),,{06}
+,,,,6,Servicios médicos privados
+18,pres_7,En el trabajo que tuvo le dieron la prestación de tiempo para cuidados maternos o paternos.,C (2),,{07}
+,,,,7,"Licencia o incapacidad con goce de sueldo (por enfermedad, accidente o maternidad)"
+19,pres_8,En el trabajo que tuvo le dieron la prestación de SAR o AFORE.,C (2),,{08}
+,,,,8,Aguinaldo
+20,pres_9,En el trabajo que tuvo le dieron la prestación de seguro de vida.,C (2),,{09}
+,,,,9,Vacaciones con goce de sueldo
+21,pres_10,En el trabajo que tuvo le dieron la prestación de préstamos personales y/o caja de ahorro.,C (2),,{10}
+,,,,10,Reparto de utilidades
+22,pres_11,En el trabajo que tuvo le dieron la prestación de prima vacacional.,C (2),,{11}
+,,,,11,Crédito de vivienda
+23,pres_12,En el trabajo que tuvo le dieron la prestación de becas y apoyos educativos.,C (2),,{12}
+,,,,12,Guarderías y estancias infantiles
+24,pres_13,En el trabajo que tuvo le dieron la prestación de servicio de comedor.,C (2),,{13}
+,,,,13,Tiempo para cuidados maternos o paternos
+25,pres_14,En el trabajo que tuvo le dieron la prestación de crédito FONACOT.,C (2),,{14}
+,,,,14,"Ahorro para el retiro o pensión para la vejez (SAR, AFORE, Haber de retiro)"
+26,pres_15,En el trabajo que tuvo le dieron la prestación de ayuda de despensas.,C (2),,{15}
+,,,,15,Seguro de vida
+27,pres_16,"En el trabajo que tuvo le dieron la prestación de ayuda o exención en el pago de luz, agua, teléfono, etcétera.",C (2),,{16}
+,,,,16,Préstamos personales y/o caja de ahorro
+28,pres_17,En el trabajo que tuvo le dieron la prestación de pensión en caso de invalidez.,C (2),,{17}
+,,,,17,Prima vacacional
+29,pres_18,En el trabajo que tuvo le dieron la prestación de pensión para sus familiares en caso de fallecimiento.,C (2),,{18}
+,,,,18,Becas y apoyos educativos
+30,pres_19,En el trabajo que tuvo le dieron otras prestaciones.,C (2),,{19}
+,,,,19,Servicio de comedor
+31,pres_20,En el trabajo que tuvo no le dieron prestaciones.,C (2),,{20}
+,,,,20,Crédito FONACOT
+32,pres_21,En el trabajo que tuvo le dieron la prestación de ayuda de despensas.,C (2),,{21}
+,,,,21,Ayuda de despensas
+33,pres_22,"En el trabajo que tuvo le dieron la prestación de ayuda o exención en el pago de luz, agua, teléfono, etcétera.",C (2),,{22}
+,,,,22,"Ayuda o exención en el pago de luz, agua, teléfono, etc"
+34,pres_23,En el trabajo que tuvo le dieron la prestación de pensión en caso de invalidez.,C (2),,{23}
+,,,,23,Pensión en caso de invalidez
+35,pres_24,En el trabajo que tuvo le dieron la prestación de pensión para sus familiares en caso de fallecimiento.,C (2),,{24}
+,,,,24,Pensión para sus familiares en caso de fallecimiento
+36,pres_25,En el trabajo que tuvo le dieron otras prestaciones.,C (2),,{25}
+,,,,25,Otras prestaciones
+37,pres_26,En el trabajo que tuvo no le dieron prestaciones.,C (2),,{26}
+,,,,26,No tiene prestaciones provenientes de su trabajo
+38,htrab,Número de horas que trabajó a la semana.,N (3),,
+39,sinco,"Tareas o funciones que realiza el integrante del hogar, en su trabajo principal o negocio de acuerdo al Sistema Nacional de Clasificación de Ocupaciones.",C (4),,Catálogo SINCO
+40,scian,"Actividad económica a la que se dedica la empresa, negocio o institución para la que trabajó el integrante del hogar de acuerdo al Sistema de clasificación Industrial de América del Norte.",C (4),,Catálogo SCIAN
+41,clas_emp,"Categoría jurídica (tipo de organización) bajo la que operan las unidades económicas identificadas como negocios privados, así como a las unidades económicas privadas que no se ubican bajo la modalidad de negocios privados, para canalizarlas a una secuencia propia de instituciones.",C (1),,"{1,...,4}"
+,,,,1,"De tipo independiente, personal o familiar"
+,,,,2,Una compañía o empresa del sector privado
+,,,,3,Una institución de gobierno
+,,,,4,Una institución no administrada por el gobierno
+42,tam_emp,Tamaño de la empresa en base al número de trabajadores donde desempeño su trabajo principal el integrante del hogar el mes pasado.,C (2),,"{01,...,12}"
+,,,,1,De 1 persona
+,,,,2,De 2 a 5 personas
+,,,,3,De 6 a 10 personas
+,,,,4,De 11 a 15 personas
+,,,,5,De 16 a 20 personas
+,,,,6,De 21 a 30 personas
+,,,,7,De 31 a 50 personas
+,,,,8,De 51 a 100 personas
+,,,,9,De 101 a 250 personas
+,,,,10,De 251 a 500 personas
+,,,,11,De 501 a más personas
+,,,,12,No sabe
+43,no_ing,"Razón por la cual los integrantes del hogar de 12 o más años que realizaron actividades económicas, no percibieron ingresos monetarios provenientes del trabajo.",C (2),,"{01,...,13,99)"
+,,,,1,Pago en especie
+,,,,2,No le han pagado
+,,,,3,Está contratado pero no ha iniciado sus actividades
+,,,,4,"Incapacidad temporal (enfermedad, accidente, etcétera)"
+,,,,5,"Falta de trabajo (cierre temporal de la empresa, negocio o comercio pero sin haber sido despedido)"
+,,,,6,Conflicto laboral o huelga
+,,,,7,Escasez de materiales y reparación del equipo para la producción o venta
+,,,,8,Está esperando continuar con las labores agrícolas
+,,,,9,Conflicto laboral o huelga
+,,,,10,Inicio de labores y no hay gastos ni ingresos
+,,,,11,Escasez de materiales y reparación del equipo para la producción o venta
+,,,,12,No ha tenido utilidades en el periodo de referencia
+,,,,13,El negocio obtuvo pérdidas
+,,,,99,Otras causas no consideradas en las anteriores
+44,tiene_suel,"Asignación o autoasignación de un sueldo o salario a los integrantes del hogar de 12 o más años, por el desempeño del trabajo que realizo el mes pasado.",C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+45,tipoact,"Actividad económica a la que se dedica la empresa, negocio o institución.",C (1),,"{1,...,9}"
+,,,,1,Industrial
+,,,,2,Comercial
+,,,,3,De servicios
+,,,,4,Actividades agrícolas
+,,,,5,Actividades de cría y explotación de animales
+,,,,6,Actividades de recolección
+,,,,7,Reforestación y tala de arboles
+,,,,8,Actividades de caza y captura de animales
+,,,,9,Actividades de pesca
+46,socios,Otra(s) persona(s) integrante(s) del hogar que también sea(n) dueño(s) del negocio.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+47,soc_nr1,Primer persona integrante del hogar que también es dueño(a) del negocio.,C (2),,"{01,...,30}"
+48,soc_nr2,Segunda persona integrante del hogar que también es dueño(a) del negocio.,C (2),,"{01,...,30}"
+49,soc_resp,Persona integrante del hogar que es la responsable del negocio.,C (2),,"{01,...,30}"
+50,otra_act,"Otras actividades además de la actividad económica principal del negocio del hogar durante el periodo de referencia, tanto en el trabajo principal como en el secundario.",C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+51,tipoact2,"Segunda actividad económica a la que se dedica la empresa, negocio o institución.",C (1),,"{1,...,9}"
+,,,,1,Industrial
+,,,,2,Comercial
+,,,,3,De servicios
+,,,,4,Actividades agrícolas
+,,,,5,Actividades de cría y explotación de animales
+,,,,6,Actividades de recolección
+,,,,7,Reforestación y tala de arboles
+,,,,8,Actividades de caza y captura de animales
+,,,,9,Actividades de pesca
+52,tipoact3,"Tercera actividad económica a la que se dedica la empresa, negocio o institución.",C (1),,"{1,...,9}"
+,,,,1,Industrial
+,,,,2,Comercial
+,,,,3,De servicios
+,,,,4,Actividades agrícolas
+,,,,5,Actividades de cría y explotación de animales
+,,,,6,Actividades de recolección
+,,,,7,Reforestación y tala de arboles
+,,,,8,Actividades de caza y captura de animales
+,,,,9,Actividades de pesca
+53,tipoact4,"Cuarta actividad económica a la que se dedica la empresa, negocio o institución.",C (1),,"{1,...,9}"
+,,,,1,Industrial
+,,,,2,Comercial
+,,,,3,De servicios
+,,,,4,Actividades agrícolas
+,,,,5,Actividades de cría y explotación de animales
+,,,,6,Actividades de recolección
+,,,,7,Reforestación y tala de arboles
+,,,,8,Actividades de caza y captura de animales
+,,,,9,Actividades de pesca
+54,lugar,Las otras actividades son realizadas en la misma unidad económica en la que se desarrolla la actividad principal.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
+55,conf_pers,El personal ocupado que realiza las otras actividades es el mismo que desarrolla la actividad principal durante el periodo de referencia.,C (1),,"{1,2}"
+,,,,1,Sí
+,,,,2,No
