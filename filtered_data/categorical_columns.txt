@@ -8,14 +8,13 @@ consumo
 regalotar
 regalodado
 diconsa
-id_trabajo
 trapais
 pago
 sinco
 scian
 clas_emp
 tam_emp
-dis_agua
+disp_agua
 disp_elect
 tenencia
 pago_mesp
